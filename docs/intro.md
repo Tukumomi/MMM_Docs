@@ -14,6 +14,32 @@ FloatingMenuでの操作以外にも
 
 また、要求機能に応じて6つのPrefabを用意しており、通常版は消費パラメーター数24bit、アイトラ機能のみの場合は最小で0bitで動作/同期します。
 
+----
+## 対応アバター
+
+:::tip
+自作/キメラアバターに使用したい方、デフォルトとは異なる耳/尻尾を使用している方は[**【上級者向け】改変の手引き**](/docs/ModificationGuide)を参照してください。
+:::
+:::info
+対応アバターは順次追加予定です。
+:::
+- 【STUDIO JINGO】
+    - [マヌカ](https://booth.pm/ja/items/5058077)
+- 【あまとうさぎ】
+    - [カリン(対応予定)](https://booth.pm/ja/items/3470989)
+    - [ライム](https://booth.pm/ja/items/4876459)
+    - [シフォン](https://booth.pm/ja/items/5354471)
+    - [ショコラ](https://booth.pm/ja/items/6405390)
+- 【もち山金魚】
+    - [まめひなた](https://booth.pm/ja/items/4340548)
+    - [キプフェル](https://booth.pm/ja/items/5813187)
+- 【PLUSONE】
+    - [真冬](https://booth.pm/ja/items/5007531)
+    - [Ash](https://booth.pm/ja/items/3234473)
+- 【IKUSIA】
+    - [瑞希(対応予定)](https://booth.pm/ja/items/5132797)
+- 【ポンデロニウム研究所】
+    - [しなの(対応予定)](https://booth.pm/ja/items/6106863)
 
 ----
 ## 動作確認環境

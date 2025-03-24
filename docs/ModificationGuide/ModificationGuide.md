@@ -51,8 +51,8 @@ Particleについて詳しい方なら各Particle設定のColor over Lifetimeに
 **※この設定を行った場合、ActionMenuからの色変更を行わないでください。**
 
 
-### 【耳/尻尾のBoneの初期状態の角度(Rotate)を変更している場合】
-Project欄の下記Animationを書き換えてください。  
+### 【耳/尻尾のBoneの初期状態の角度(Rotation)を変更している/キメラアバターの場合】
+Project欄の下記Animationを```TransformのRotation```や```Pass```が一致するように書き換えてください。  
 ```
 MofuMofuMotion
 ┗AvatarAnimation

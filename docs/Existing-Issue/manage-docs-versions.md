@@ -4,6 +4,11 @@ sidebar_position: 1
 
 # 注意事項/既知の不具合
 ----
+:::info
+こちらのページにない不具合・バグと思わしき動作があった場合には  
+[Twitter(X)](https://x.com/Tukumomi_VR)や[Booth](https://momiji-maples.booth.pm/)へお問い合わせをお願いします。
+:::
+
 :::note
 *MMM：MofuMofuMotion
 :::
