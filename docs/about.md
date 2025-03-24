@@ -14,7 +14,7 @@ sidebar_position: 6
 その際はお手数ですが、規約の再確認をお願い致します。
 :::
 
-- [MofuMofuMotionの利用規約](https://drive.google.com/drive/folders/1gkPGaQgviWXv7R3Nh69Plk2pW2XQxarX?usp=drive_link)
+- [MofuMofuMotion利用規約](https://drive.google.com/drive/folders/1gkPGaQgviWXv7R3Nh69Plk2pW2XQxarX?usp=drive_link)
 
 ----
 ## Googleアナリティクスの使用について　
