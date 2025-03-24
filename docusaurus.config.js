@@ -70,10 +70,10 @@ const config = {
       // image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'MofuMofuMotion',
-        //logo: {
-        //  alt: 'My Site Logo',
-        //  src: 'img/logo.svg',
-        //},
+        logo: {
+          alt: 'My Site Logo',
+          src: 'img/MofuMofuMotion/MMM_Logo_Icon.svg',
+        },
         items: [
           {
             type: 'docSidebar',
@@ -95,7 +95,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: '説明書',
                 to: '/docs/intro',
               },
             ],
@@ -103,30 +103,12 @@ const config = {
           {
             title: 'link',
             items: [
-              /**{
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },*/
               {
                 label: 'X(VR関連)',
                 href: 'https://x.com/Tukumomi_VR',
               },
             ],
           },
-          /**
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },*/
         ],
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },

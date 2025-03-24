@@ -1,28 +1,30 @@
+import React from 'react';
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: '新しいコミュニケーションツールとして！',
+    image: require('@site/static/img/homepage/test_img_01.png').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly. <code>code</code>
+        低Bit(通常版24bit、<strong>アイトラ機能のみの場合最小0bit</strong>)で同期！<br/>
+        ActionMenuからの操作の場合は<strong>耳/尻尾の位置固定も可能(レイトジョイナー対応)</strong>
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({title, image, description}) {
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx('col col--6')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img src={image} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
+        <Spacer size={50}/>
+        <h3>{title}</h3>
         <p>{description}</p>
       </div>
     </div>
@@ -41,4 +43,16 @@ export default function HomepageFeatures() {
       </div>
     </section>
   );
+}
+
+export const Spacer = ({ size, horizontal }) => {
+  return (
+    <div
+      style={
+        horizontal
+          ? { width: size, height: 'auto', display: 'inline-block', flexShrink: 0 }
+          : { width: 'auto', height: size, flexShrink: 0  }
+      }
+    />
+  )
 }
