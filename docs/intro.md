@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # MofuMofuMotion
 
-MofuMofuMotion は宙に浮かぶFloatingMenuを使用し、アバターの耳や尻尾を自由に動かせるようにするギミックです。<br/>
+[MofuMofuMotion](https://momiji-maples.booth.pm/items/6731467) は宙に浮かぶFloatingMenuを使用し、アバターの耳や尻尾を自由に動かせるようにするギミックです。<br/>
 専用パーティクルやもふもふ音(耳や尻尾に触れた際の音)を追加し、より幅広く遊べるようになっています。
 
 FloatingMenuでの操作以外にも  

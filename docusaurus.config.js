@@ -82,7 +82,7 @@ const config = {
             label: '説明書',
           },
           {
-            href: 'https://momiji-maples.booth.pm/',
+            href: 'https://momiji-maples.booth.pm/items/6731467',
             label: 'Booth',
             position: 'right',
           },
