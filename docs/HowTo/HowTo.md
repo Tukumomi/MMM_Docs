@@ -93,6 +93,10 @@ FM：FloatingMenu
 |**【アイトラ時のみ】 【Localのみ】**<br/>FM位置変更|〇|〇|〇|〇|〇||  
 |**【アイトラ時のみ】 【Localのみ】**<br/>FM奥行き変更|〇|〇|〇|〇|〇||  
 </details>
+:::tip
+**【低Bit版のparameter初期値の変更方法について】**  
+[**初期値設定可能なparameterについて**](/docs/ModificationGuide/#初期値設定可能なparameterについて)を参照してください。
+:::
 ----
 ### 基本的な使い方
 :::note 
