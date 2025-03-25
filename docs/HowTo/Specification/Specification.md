@@ -4,7 +4,49 @@ sidebar_position: 1
 
 # 基本仕様
 
-# 各機能解説
+### 基本仕様 / Specifications
+```
+Unityバージョン/前提アセット
+    ・Unity 2022.3.22f1
+    ・lilToon 1.8.5
+    ・Modular Avatar 1.11.7
+    ・VRChat SDK - Avatars 3.7.6
+    ・VRChat SDK - Base 3.7.6
+Write Defaults: ON/OFF 両対応
+Animatorレイヤー数: 
+    ・通常版(ActionMenuOnly版以外):  3+1(MAのMerge Blend Treeレイヤー)
+    ・ActionMenuOnly版: 2+1(MAのMerge Blend Treeレイヤー)
+ポリゴン数: 400
+マテリアル: 10個（商品フォルダ内に11個付属）
+テクスチャ: 24枚（商品フォルダ内に27枚付属）
+音源データ: 17個
+```
+
+### パフォーマンスランク情報 / Performance Ranking
+**※重要箇所のみ記載**
+
+**【通常版(ActionMenuOnly版以外)】**
+    ```
+    Triangles: 400
+    Mesh Renderers: 2
+    Material Slots: 25
+    Non-Local Contact Component Count: 15
+    Particle Systems: 22
+    Audio Sources: 12
+    Texture Memory Usage: 1.8 MB
+    Constraint Component Count: 23
+    ```
+**【ActionMenuOnly版】**
+    ```
+    Material Slots: 9
+    Non-Local Contact Component Count: 6
+    Particle Systems: 9
+    Audio Sources: 3
+    Texture Memory Usage: 0.9 MB
+    Constraint Component Count: 6
+    ```
+
+### 各機能解説 / Explanation of Each Function  
 - **【FloatingMenu関連】**  
     Particle等で作成したFloatingMenuを展開し、ワールド固定するギミックです。  
     **UI色はActionMenuから変更可能です。**  
