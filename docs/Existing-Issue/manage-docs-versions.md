@@ -17,12 +17,12 @@ sidebar_position: 1
 ### アイトラモード時、自分視点でFloatingMenuが表示されない
 - **【05_MMM_EyeModeOnly_0bit】** のPrefabの場合通常時は非表示にしています。FloatingMenuを展開すると表示されます。  
 - World側の設定として、CameraのNearが高く設定されている場合、アイトラモード時の表示が消える場合があります。  
-こちらの問題は**MaineMenuのGraphics/Advancedにある"Forced Camera Near Distance"をDynamicに変更する**と改善します。  
+こちらの問題は**MaineMenuのGraphics/Advancedにある"Forced Camera Near Distance"をDynamicに変更**すると改善します。  
 (日本語UIの場合：**グラフィクス/詳細の"カメラのニアクリップ距離上書き"をダイナミックに変更**)  
 ※VRCを起動するたびに再設定が必要です。ご注意ください。  
 
 ### FloatingMenu展開時に角度や当たり判定がおかしくなる
-- 最新のSDKでは未確認ですが、SDK 3.7.5にて **"VRC上でのみ"** Rotation Constraintのバグとみられる現象が稀に発生しています。  
+- SDK 3.7.6では未確認ですが、SDK 3.7.5にて **"VRC上でのみ"** Rotation Constraintのバグとみられる現象が稀に発生しています。  
 発生原因が不明であり、MMM側では対処が出来ない為、アップロードし直し等をお試しください。(何も変えなくても治ることがあるようです。)
 
 ### 稀に効果音が再生されない時がある

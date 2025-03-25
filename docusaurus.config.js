@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'MofuMofuMotion',
-  tagline: '【VRChat用/MA前提】　けもみみ/尻尾を自由に動かすギミック',
+  tagline: '【VRChat用/MA前提】　アバターの耳や尻尾を自由に動かすギミック',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here

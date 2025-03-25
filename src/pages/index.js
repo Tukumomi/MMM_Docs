@@ -17,7 +17,12 @@ function HomepageHeader() {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
-            className="button button--secondary button--lg"
+            className={`button button--secondary button--lg ${styles.button}`}
+            to="https://momiji-maples.booth.pm/items/6731467">
+            商品ページ
+          </Link>
+          <Link
+            className={`button button--secondary button--lg ${styles.button}`}
             to="/docs/intro">
             説明書
           </Link>

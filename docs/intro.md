@@ -18,7 +18,7 @@ FloatingMenuでの操作以外にも
 ## 対応アバター
 
 :::tip
-自作/キメラアバターに使用したい方、デフォルトとは異なる耳/尻尾を使用している方は[**【上級者向け】改変の手引き**](/docs/ModificationGuide)を参照してください。
+対応外/自作/キメラアバターに使用したい方、デフォルトとは異なる耳/尻尾を使用している方は[**【上級者向け】改変の手引き**](/docs/ModificationGuide)を参照してください。
 :::
 :::info
 対応アバターは順次追加予定です。
@@ -42,6 +42,23 @@ FloatingMenuでの操作以外にも
     - [しなの(対応予定)](https://booth.pm/ja/items/6106863)
 
 ----
+## 利用規約について
+:::info
+ユーザーの不利益を伴う規約更新を行う場合、施行の一ヶ月前には[**Twitter(X)**](https://x.com/Tukumomi_VR)、[**Booth商品ページ**](https://momiji-maples.booth.pm/items/6731467)、**本ページ**等で周知を行います。  
+その際はお手数ですが、規約の再確認をお願い致します。
+:::
+
+- [MofuMofuMotion利用規約](https://drive.google.com/drive/folders/1gkPGaQgviWXv7R3Nh69Plk2pW2XQxarX?usp=drive_link)
+----
+## ハッシュタグについて
+
+Twitter(X)等でMofuMofuMotionの画像を投稿する際は下記ハッシュタグをご利用いただけるととても嬉しいです！  
+
+**#MofuMofuMotion**  
+**#千秋万狐**
+
+----
+
 ## 動作確認環境
 
 |前提|対応バージョン|

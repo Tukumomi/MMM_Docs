@@ -21,3 +21,10 @@
   align-items: center;
   justify-content: center;
 }
+
+.button {
+  margin-right: 1rem;
+  margin-left: 1rem;
+  width: 15rem;
+  color: var(--ifm-color-primary) !important;
+}

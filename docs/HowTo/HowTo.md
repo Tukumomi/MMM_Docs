@@ -2,10 +2,13 @@
 sidebar_position: 1
 ---
 
-# 導入方法と基本的な使い方
+# 導入方法と基本的な使い方  
+
 ----
 ### 導入方法
-①VCCに[ModularAvatar][liltoon]の最新版を導入  
+本ギミックは**WDオン/オフ両対応**です。  
+
+①VCCに[[**ModularAvatar**](https://modular-avatar.nadena.dev/ja)][[**liltoon**](https://lilxyzw.github.io/lilToon/)]の最新版を導入  
 ②```MofuMofuMotion/Prefab/各アバターフォルダ内```にある任意のPrefabをアバター直下に置いてください。  
 ③耳や尻尾で使用しているPBの```Is Animated```をONにしてください。  
 ④完了！
@@ -16,7 +19,7 @@ Prefabをアバター内に入れるとActionMenuにEyerackingTestという項�
 ※こちらはあくまで確認用です。このツールでは座標系のRemapを行っていない為、実際のアイトラの動きはしませんが参考程度にお使いください。  
 :::
 :::tip
-自作/キメラアバターに使用したい方、デフォルトとは異なる耳/尻尾を使用している方は[**【上級者向け】改変の手引き**](/docs/ModificationGuide)を参照してください。
+対応外/自作/キメラアバターに使用したい方、デフォルトとは異なる耳/尻尾を使用している方は[**【上級者向け】改変の手引き**](/docs/ModificationGuide)を参照してください。
 :::
 :::tip
 アイトラ利用者も最初は通常版を導入し、各パラメータの調整値を把握してから低bit版を導入することをお勧めします。
@@ -100,8 +103,10 @@ FM：FloatingMenu
 ----
 ### 基本的な使い方
 :::note 
-※各モードそれぞれ対応した手/目でしか操作が行えません。  
-※FloatingMenuは自身のみ操作可能です。  
+- 各モードそれぞれ対応した手/目でしか操作が行えません。 (※ActionMenu操作は除く) 
+- FloatingMenuは自身のみ操作可能です。  
+- **アバター読み込みから5秒間は効果音が再生されません。**  
+    ※初期同期時に音がうるさくならないようにするための処理です。
 :::
 
 <details>
@@ -112,10 +117,10 @@ FM：FloatingMenu
 **【バングルモード(右手)】**   
 **[起動/終了]**  
 ```右手RockNRoll + 左手Gun```  
-左手人差し指で右手首のContactに触れてください。  
+左手人差し指で右手首のContactに一瞬触れてください。  
 
 **[FloatingMenu展開]**  
-```左手RockNRoll + 右手Point```  
+```左手RockNRoll + 右手Point (1秒間維持)```  
 左手は起動時のみ。右手はPointにしている間FloatingMenuが展開されます。  
 中央のリング内に右手人差し指を置くことで対応したモードの動作が行えます。  
 
@@ -141,7 +146,7 @@ FM：FloatingMenu
 **【リングモード(右指)】**  
 **[起動/終了]**  
 ```右手RockNRoll + 左手Gun```  
-左手人差し指で右手人差し指のContactに触れてください。  
+左手人差し指で右手人差し指のContactに一瞬触れてください。  
 
 他の操作はバングルモード(右手)と同様です。  
 
@@ -163,10 +168,10 @@ FM：FloatingMenu
 **【アイトラモード】**  
 **[起動/終了]**  
 ```右手Gun + 左手RockNRoll```  
-右手人差し指で右目横のContactに触れてください。  
+右手人差し指で右目横のContactに一瞬触れてください。  
 
 **[メニュー展開]**  
-```右手Point + 左手RockNRoll```  
+```右手Point + 左手RockNRoll (1秒間維持)```  
 左手は起動時のみ。右手はPointにしている間メニューが展開されます。  
 メニュー展開後は自動でアイトラでの操作が有効となります。  
 
@@ -177,6 +182,7 @@ FM：FloatingMenu
 <details>
 <summary>**ActionMenu(EXメニュー)の説明**</summary>
 
+![ActionMenu_Icons](/img/MofuMofuMotion/ActionMenu_Icons.png)
 - **[Motion Reset]**
     - けもみみと尻尾を動かしている際に位置をリセットします。
 - **[KemoMimiMotion]/[TailMimiMotion]**
