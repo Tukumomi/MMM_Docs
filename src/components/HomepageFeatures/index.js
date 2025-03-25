@@ -5,12 +5,13 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: '新しいコミュニケーションツールとして！',
+    title: '新しいコミュニケーションツールとして',
     image: require('@site/static/img/homepage/test_img_01.png').default,
     description: (
       <>
         低Bit(通常版24bit、<strong>アイトラ機能のみの場合最小0bit</strong>)で同期！<br/>
-        ActionMenuからの操作の場合は<strong>耳/尻尾の位置固定も可能(レイトジョイナー対応)</strong>
+        ActionMenuからの操作の場合は<strong>耳/尻尾の位置固定も可能(レイトジョイナー対応)</strong><br/>
+        耳/尻尾でもふもふした際の音やParticle等も追加されます。<br/>
       </>
     ),
   },
