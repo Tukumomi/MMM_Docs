@@ -6,7 +6,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: '新しいコミュニケーションツールとして',
-    image: require('@site/static/img/homepage/test_img_01.png').default,
+    image: require('@site/static/img/homepage/test_img_01.png').default,    
     description: (
       <>
         低Bit(通常版24bit、<strong>アイトラ機能のみの場合最小0bit</strong>)で同期！<br/>
