@@ -32,10 +32,10 @@ FloatingMenuでの操作以外にも
     - [ショコラ](https://booth.pm/ja/items/6405390)
 - 【もち山金魚】
     - [まめひなた](https://booth.pm/ja/items/4340548)
-    - [キプフェル(※耳動作は帽子無し状態のみ)](https://booth.pm/ja/items/5813187)
+    - [キプフェル](https://booth.pm/ja/items/5813187)(※耳動作は帽子無し状態のみ)
 - 【PLUSONE】
     - [真冬](https://booth.pm/ja/items/5007531)
-    - [Ash(※耳動作は帽子無し状態のみ)](https://booth.pm/ja/items/3234473)
+    - [Ash](https://booth.pm/ja/items/3234473)(※耳動作は帽子無し状態のみ)
 - 【IKUSIA】
     - [瑞希(対応予定)](https://booth.pm/ja/items/5132797)
 - 【ポンデロニウム研究所】
