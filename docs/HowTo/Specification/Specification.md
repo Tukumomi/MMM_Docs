@@ -35,6 +35,7 @@ Animatorレイヤー数:
     Audio Sources: 12
     Texture Memory Usage: 1.8 MB
     Constraint Component Count: 23
+    Constraint Depth: 6
     ```
 **【ActionMenuOnly版】**
     ```
@@ -44,6 +45,7 @@ Animatorレイヤー数:
     Audio Sources: 3
     Texture Memory Usage: 0.9 MB
     Constraint Component Count: 6
+    Constraint Depth: 1
     ```
 
 ### 各機能解説 / Explanation of Each Function  
