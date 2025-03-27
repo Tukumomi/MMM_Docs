@@ -30,3 +30,7 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 .hidden {
   display: none !important;
   }
+
+.navbar__brand {
+  color: var(--ifm-color-primary) !important; 
+}

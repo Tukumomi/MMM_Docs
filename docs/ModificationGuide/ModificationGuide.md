@@ -108,7 +108,7 @@ MMMはActionMenuの```Two Axis操作```をFloatingMenuを利用して手やア�
         **VR内で確認し、全体が視界に映るよう位置/サイズ調整してください。**  
     - Localで細かい位置調整は行えるため、見た目を優先して設定しても大丈夫です。
     :::info
-    確認用のモデルは```EditorOnly_DisplayPositionをDisable```にすれば非表示にできます。
+    位置確認用のモデルは```EditorOnly_DisplayPositionをDisable```にすれば非表示にできます。
     :::
 
 - **【Sender】**  
