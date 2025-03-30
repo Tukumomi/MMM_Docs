@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # MofuMofuMotion
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s4PQWO97YyA?si=mkZUr7pyLHAjIW4K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [**MofuMofuMotion**](https://momiji-maples.booth.pm/items/6731467) は宙に浮かぶFloatingMenuを使用し、アバターの耳や尻尾を自由に動かせるようにするギミックです。<br/>
 専用パーティクルやもふもふ音(耳や尻尾に触れた際の音)を追加し、より幅広く遊べるようになっています。
 
@@ -24,23 +26,22 @@ FloatingMenuでの操作以外にも
 対応アバターは順次追加予定です。
 :::
 - 【STUDIO JINGO】
-    - [マヌカ](https://booth.pm/ja/items/5058077)
+    - [マヌカ](https://booth.pm/ja/items/5058077) [【MMM動作動画】](https://youtu.be/h5cEVMnx1mk?si=L8jJy2tox60hJeCY)
 - 【あまとうさぎ】
-    - [カリン(対応予定)](https://booth.pm/ja/items/3470989)
-    - [ライム](https://booth.pm/ja/items/4876459)
-    - [シフォン](https://booth.pm/ja/items/5354471)
-    - [ショコラ](https://booth.pm/ja/items/6405390)
+    - [カリン(対応予定)](https://booth.pm/ja/items/3470989) 
+    - [ライム](https://booth.pm/ja/items/4876459) [【MMM動作動画】](https://youtu.be/IycrxY4DeCw?si=adRUNCvzy95uAzry)
+    - [シフォン](https://booth.pm/ja/items/5354471) [【MMM動作動画】](https://youtu.be/dwcrXKFcYvQ?si=rjTmfCF7-tUzQID_)
+    - [ショコラ](https://booth.pm/ja/items/6405390) [【MMM動作動画】](https://youtu.be/SIIg7cq4-b8?si=j2H3LdSmzKMhqHCu)
 - 【もち山金魚】
-    - [まめひなた](https://booth.pm/ja/items/4340548)
-    - [キプフェル](https://booth.pm/ja/items/5813187) (※耳動作は帽子無し状態のみ)
+    - [まめひなた](https://booth.pm/ja/items/4340548) [【MMM動作動画】](https://youtu.be/fVdFt9W5smI?si=nETHisfSzscN25CZ)
+    - [キプフェル (※耳動作は帽子無し状態のみ)](https://booth.pm/ja/items/5813187) [【MMM動作動画】](https://youtu.be/f6xzcFssz9w?si=MdH9jxfZeRyK5jSV)
 - 【PLUSONE】
-    - [真冬](https://booth.pm/ja/items/5007531)
-    - [Ash](https://booth.pm/ja/items/3234473) (※耳動作は帽子無し状態のみ)
+    - [真冬](https://booth.pm/ja/items/5007531) [【MMM動作動画】](https://youtu.be/8A2H-5Be-zc?si=gJj0lUIJUshoQXBh)
+    - [Ash (※耳動作は帽子無し状態のみ)](https://booth.pm/ja/items/3234473) [【MMM動作動画】](https://youtu.be/pXVg85Zj4z8?si=3buLLfEyC8KTzwkn)
 - 【IKUSIA】
-    - [瑞希(対応予定)](https://booth.pm/ja/items/5132797)
+    - [瑞希](https://booth.pm/ja/items/5132797) [【MMM動作動画】](https://youtu.be/7MwiTfjMBt4?si=yAReFM1coZsLOAiC)
 - 【ポンデロニウム研究所】
-    - [しなの(対応予定)](https://booth.pm/ja/items/6106863)
-
+    - [しなの(対応予定)](https://booth.pm/ja/items/6106863) 
 ----
 ## 利用規約について
 :::info
