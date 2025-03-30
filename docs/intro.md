@@ -16,6 +16,8 @@ FloatingMenuでの操作以外にも
 
 また、要求機能に応じて6つのPrefabを用意しており、通常版は消費パラメーター数24bit、アイトラ機能のみの場合は最小0bitで動作/同期します。
 
+各アバターの耳/尻尾の動きについては[こちら(Youtubeリスト)](https://www.youtube.com/watch?v=s4PQWO97YyA&list=PLVuxyn6ULxnJ3yX7atW87jxW_Sg4kcbxA)にまとめています。  
+
 ----
 ## 対応アバター
 

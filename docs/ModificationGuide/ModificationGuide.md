@@ -105,6 +105,16 @@ MMMはActionMenuの```Two Axis操作```をFloatingMenuを利用して手やア�
     　┗Target_HeadMenu_Position
     　　┗RightEye_Menu_Position◀　アイトラモード時のメニュー出現位置/サイズ変更
     ```
+    :::info
+        **バングル/リングモードの位置調整時、X軸は反転することにご注意ください。**  
+        その際は各メニュー位置設定の親オブジェクトにある```VRC Parent Constraint```の```Position Offset```を設定してください。  
+
+        - **【設定方法】**  
+        ① ```VRC Parent Constraint```のIs Activeをオフ  
+        ② ```Constraint Settings```のLockを解除  
+        ③ Sourceの```Position Offset```を設定  
+        ④ ①,②を再度オンにする  
+    :::
     - RightEye_Menu_PositionはViewPointによって大きく見え方が変わるため、細かい調整が必要になるかと思われます。  
         **VR内で確認し、全体が視界に映るよう位置/サイズ調整してください。**  
     - Localで細かい位置調整は行えるため、見た目を優先して設定しても大丈夫です。

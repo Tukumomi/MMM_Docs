@@ -10,7 +10,7 @@ sidebar_position: 1
 
 ①VCCに[[**ModularAvatar**](https://modular-avatar.nadena.dev/ja)][[**liltoon**](https://lilxyzw.github.io/lilToon/)]の最新版を導入  
 ②```MofuMofuMotion/Prefab/各アバターフォルダ内```にある任意のPrefabをアバター直下に置いてください。  
-③耳や尻尾で使用しているPBの```Is Animated```をONにしてください。  
+③耳や尻尾で使用しているPBの```Gravity```を0、```Is Animated```をONにしてください。  
 ④完了！
 :::info
 - 位置確認用のモデルは```EditorOnly_DisplayPositionをDisable```にすれば非表示にできます。
@@ -24,9 +24,10 @@ sidebar_position: 1
 - アイトラ利用者も最初は通常版を導入し、各パラメータの調整値を把握してから低bit版を導入することをお勧めします。
 :::
 :::caution
-本ギミックは耳/尻尾の操作時以外はAnimationを操作再生していない為他ギミックと共存が可能です。  
-他にも耳や尻尾を動かすギミックを入れている場合、**MMM(MofuMofuMotion)** がアバター配下の一番下側に来るように調整してください。  
-※他ギミックで耳や尻尾のBoneのPositionを弄っている場合、干渉を回避出来ませんのでご注意ください。
+- 本ギミックは耳/尻尾の操作時以外はAnimationを操作再生していない為他ギミックと共存が可能です。  
+    他にも耳や尻尾を動かすギミックを入れている場合、**MMM(MofuMofuMotion)** がアバター配下の一番下側に来るように調整してください。  
+    ※他ギミックで耳や尻尾のBoneのPositionを弄っている場合、干渉を回避出来ませんのでご注意ください。
+- **シェイプキーによって耳の形状が変形している場合、動かした際の見た目が損なわれる場合があります。** ご注意ください。
 :::
 
 ----
