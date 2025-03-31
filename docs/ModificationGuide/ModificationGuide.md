@@ -10,8 +10,11 @@ sidebar_position: 1
 <summary>**parameter詳細**</summary>
 
 - **[MMM/Local/ChangeColor]**
-        - 色変更の値です。
+        - UI/パーティクル色のベース色変更の値です。
         - 初期設定はアバターに応じて異なります。初期設定は0.1です。
+- **[MMM/Local/ChangeColor_Lightness]**  
+        - UI/パーティクル色の明度変更の値です
+        - 初期設定はアバターに応じて異なります。初期設定は0.5です。
 - **[MMM/Sync/FluffyTouchAudio_ON]**
         - 耳/尻尾で触れた際の音の設定です。
         - 初期設定はONです。
