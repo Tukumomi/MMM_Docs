@@ -53,6 +53,30 @@ Particleについて詳しい方なら各Particle設定のColor over Lifetimeに
 (色変えを簡単にするために表現力を落としています)  
 **※この設定を行った場合、ActionMenuからの色変更を行わないでください。**
 
+### 【Particleのtextureを変更したい】  
+Project欄の```MofuMofuMotion/System/Material```内の以下Material Textureを変更してください。  
+- **【Particle_Default】**  
+        Idle時のParticle等です。(Trailのみを使用しているため変更は非推奨です。)
+- **【Particle_Ring】**  
+        メニュー展開時等のリング状のParticleです。
+- **【Particle_EyeMovementRange】**  
+        アイトラ可動域調整値時に表示されるUIです。
+- **【Particle_Triangle】**  
+        FloatingMenuにタッチしたときに舞い散るParticleです。  
+        4つのtextureが結合しており、4枚のtextureがランダムに表示されます。  
+        ┗例：花と花びらのtextureに変更
+- **【FluffyEffect】**  
+        尻尾でもふもふした際のParticleです。(花)
+- **【HeartEffect】**  
+        耳でもふもふした際のParticleです。(ハート)
+- **【MMM_Icon_Kemomimi】**  
+        FloatingMenuのSubMenuにある、けもみみアイコンです。
+- **【MMM_Icon_Tail】**  
+        FloatingMenuのSubMenuにある、尻尾アイコンです。
+- **【MusicalNoteEffect】**  
+        もふもふ音有効時に耳/尻尾でもふもふした際に現れる音符Particleです。
+- **【StaffNotationCircle】**  
+        もふもふ音有効時に耳/尻尾でもふもふした際に現れる五線譜Particleです。
 
 ### 【耳/尻尾のBoneの初期状態の角度(Rotation)を変更している/キメラアバターの場合】
 Project欄の下記Animationを```TransformのRotation```や```Pass```が一致するように書き換えてください。  
@@ -71,7 +95,17 @@ MofuMofuMotion
 **※通常版のみの解説となります。**  
 対応外アバターに対応させる場合は下記の手順を行ってください。  
 
-- Project欄の```MofuMofuMotion/Prefab/01_MMM_Base```Prefabを使用  
+- Project欄の```MofuMofuMotion/Prefab/01_MMM_Base```Prefabをアバターに導入  
+- 以下のMA Bone Proxyに耳/尻尾のbone(位置はContactの位置を参考に決めてください。)  
+  分からない場合、設定済みのPrefabを参考にしてください。
+        ```
+        MofuMofuMotion～
+        ┗Target
+        　┗BoneProxy
+        　　┗Target_Ear_L◀
+        　　┗Target_Ear_R◀
+        　　┗Target_Tail◀
+        ```
 - [**[メニュー位置等の調整方法]**](/docs/ModificationGuide/#メニュー位置等の調整方法) を参考に各位置を調整  
 - ```Target/BoneProxy```の対象箇所に耳/尻尾のBoneを指定  
 - project欄の```MofuMofuMotion/System/AvatarAnimation/【各アバター名】```のいずれかを複製  
