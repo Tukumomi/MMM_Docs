@@ -134,7 +134,6 @@ FM：FloatingMenu
 　メニュー展開中はなるべく手を動かさないようにしてください。  
 :::
 </details>
-
 <details>
 <summary>**リングモード(人差し指)の使い方**</summary>
 
@@ -156,7 +155,6 @@ FM：FloatingMenu
 　メニュー展開中はなるべく手を動かさないようにしてください。  
 :::
 </details>
-
 <details>
 <summary>**アイトラモード(右目)の使い方**</summary>
 
@@ -175,7 +173,6 @@ FM：FloatingMenu
 **[モード切替]**  
 メニュー右上の小さい方のアイコンを1秒以上(設定変更可)見つめると切り替えられます。  
 </details>
-
 <details>
 <summary>**ActionMenu(EXメニュー)の説明**</summary>
 
