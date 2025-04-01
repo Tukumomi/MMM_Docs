@@ -27,7 +27,7 @@ sidebar_position: 1
 - 本ギミックは耳/尻尾の操作時以外はAnimationを操作再生していない為他ギミックと共存が可能です。  
     他にも耳や尻尾を動かすギミックを入れている場合、**MMM(MofuMofuMotion)** がアバター配下の一番下側に来るように調整してください。  
     ※他ギミックで耳や尻尾のBoneのPositionを弄っている場合、干渉を回避出来ませんのでご注意ください。
-- **シェイプキーによって耳の形状が変形している場合、動かした際の見た目が損なわれる場合があります。** ご注意ください。
+- **シェイプキー等によって耳の形状が変形している場合、動かした際の見た目が損なわれる場合があります。**
 :::
 
 ----
@@ -179,37 +179,41 @@ FM：FloatingMenu
 <details>
 <summary>**ActionMenu(EXメニュー)の説明**</summary>
 
-![ActionMenu_Icons](/img/MofuMofuMotion/ActionMenu_Icons.png)
-- **[Motion Reset]**
-    - けもみみと尻尾を動かしている際に位置をリセットします。
-- **[KemoMimiMotion]/[TailMimiMotion]**
-    - けもみみと尻尾をActionMenuから操作します。(FloatingMenu操作時はそちらが優先されます。)
-- **[Change Color]**
-    - フローティングメニュー/FlowerParticleの色変更を行います。
+![ActionMenu_Icons](/img/Homepage/ActionMenu_Icons.png)
+- **[Motion Reset]**  
+    けもみみと尻尾を動かしている際に位置をリセットします。
+- **[KemoMimiMotion]/[TailMimiMotion]**  
+    けもみみと尻尾をActionMenuから操作します。(FloatingMenu展開中は使用できません。)
+- **[Change Color]**  
+    フローティングメニュー/FlowerParticleの基本色/明度変更を行います。
+    - **[Change Base Color]**  
+        基本色を変更します。
+    - **[Change Lightness]**  
+        明度を変更します。
 - **[FluffyTouchAudio]**  
 もふもふ音の設定です。
-    - **[FluffyTouchAudio Active]**
-        - 耳や尻尾で触った際の音を有効化します。<br/>
+    - **[FluffyTouchAudio Active]**  
+        耳や尻尾で触った際の音を有効化します。  
         この音声はParticle同様、操作中の部位が何かに触れている際のみ有効になります。
-    - **[Enable Self Sound]**
-        - 自身でも音を聞こえるようにするかの設定です。
+    - **[Enable Self Sound]**  
+        自身でも音を聞こえるようにするかの設定です。
 - **[[Local] EyeMenu Adjustment]**  
-※Localでのみアイトラモード時の見え方を変更する設定項目です。
-     - **[Eye Movement Range]**
-        - アイトラの可動域の調整を行います。<br/>
-        可動域を調整する際は専用オーバーレイが表示されます。<br/>
-        アイトラのParameterに合わせて、外円が1.0/内側が0.7のラインを表しています。<br/>
-        サブメニューアイコンにPointerを合わせられるように可動域を調整してください。<br/>
+    ※Localでのみアイトラモード時の見え方を変更する設定項目です。
+     - **[Eye Movement Range]**  
+        アイトラの可動域の調整を行います。  
+        可動域を調整する際は専用オーバーレイが表示されます。  
+        アイトラのParameterに合わせて、外円が1.0/内側が0.7のラインを表しています。  
+        サブメニューアイコンにPointerを合わせられるように可動域を調整してください。  
         **※Remoteには設定した倍率のみが同期されます。**
-    - **[SubMenu Switching Change HoldTime]**
-        - アイトラ使用時のモード切替時に何秒選択し続けたら切り替わるかの時間設定です。<br/>
+    - **[SubMenu Switching Change HoldTime]**  
+        アイトラ使用時のモード切替時に何秒選択し続けたら切り替わるかの時間設定です。  
         0%で1F、100%で1秒で切り替わります。
-    - **[EyeMenu Resize]**
-        - アイトラモード時のFloatingMenuのサイズを変更します。
-    - **[EyeMenu Reposition]**
-        - アイトラモード時のFloatingMenuの表示位置を変更します。
-    - **[EyeMenu Redepth]**
-        - アイトラモード時のFloatingMenuの奥行きを変更します。
+    - **[EyeMenu Resize]**  
+        アイトラモード時のFloatingMenuのサイズを変更します。
+    - **[EyeMenu Reposition]**  
+        アイトラモード時のFloatingMenuの表示位置を変更します。
+    - **[EyeMenu Redepth]**  
+        アイトラモード時のFloatingMenuの奥行きを変更します。
 :::tip
 **【アイトラ可動域の調整について】**  
 アイトラモードでメニュー展開後、ActionMenuから[Eye Movement Range]を選択し  

@@ -11,7 +11,7 @@ const FeatureList = [
       <>
         MA対応で非破壊で追加、低Bitで同期！<br/>
         (通常版24bit、アイトラ機能のみの場合最小0bit)<br/><br/>
-        <strong>簡単3stepでアバターへ追加！</strong><br/>
+        <strong>簡単4stepでアバターへ追加！</strong><br/>
         ※改変によっては調整が必要になる場合があります。<br/>
       </>
     ),
