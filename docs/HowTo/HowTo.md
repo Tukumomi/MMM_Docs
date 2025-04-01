@@ -176,7 +176,7 @@ FM：FloatingMenu
 <details>
 <summary>**ActionMenu(EXメニュー)の説明**</summary>
 
-![ActionMenu_Icons](/img/Homepage/ActionMenu_Icons.png)
+![ActionMenu_Icons](/img/homepage/ActionMenu_Icons.png)
 - **[Motion Reset]**  
     けもみみと尻尾を動かしている際に位置をリセットします。
 - **[KemoMimiMotion]/[TailMimiMotion]**  
