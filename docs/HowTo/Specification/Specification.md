@@ -16,7 +16,6 @@ Write Defaults: ON/OFF 両対応
 Animatorレイヤー数: 
     ・通常版(ActionMenuOnly版以外):  3+1(MAのMerge Blend Treeレイヤー)
     ・ActionMenuOnly版: 2+1(MAのMerge Blend Treeレイヤー)
-ポリゴン数: 400
 マテリアル: 10個（商品フォルダ内に11個付属）
 テクスチャ: 24枚（商品フォルダ内に27枚付属）
 音源データ: 17個
@@ -27,15 +26,13 @@ Animatorレイヤー数:
 
 **【通常版(ActionMenuOnly版以外)】**
     ```
-    Triangles: 400
-    Mesh Renderers: 2
     Material Slots: 25
     Non-Local Contact Component Count: 15
-    Particle Systems: 22
+    Particle Systems: 24
     Audio Sources: 12
     Texture Memory Usage: 1.8 MB
     Constraint Component Count: 23
-    Constraint Depth: 6
+    Constraint Depth: 8
     ```
 **【ActionMenuOnly版】**
     ```
