@@ -4,8 +4,8 @@ sidebar_position: 1
 
 # MofuMofuMotion
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3ZZH5xFS9go?si=7a3KQ7SHMswUhEgl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="448" height="252" src="https://www.youtube.com/embed/3ZZH5xFS9go?si=7a3KQ7SHMswUhEgl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="448" height="252" src="https://www.youtube.com/embed/IVQiOOFQHJU?si=Jqe97Hjoabx3MkHx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [**MofuMofuMotion**](https://momiji-maples.booth.pm/items/6731467) は宙に浮かぶFloatingMenuを使用し、アバターの耳や尻尾を自由に動かせるようにするギミックです。<br/>
 専用パーティクルやもふもふ音(耳や尻尾に触れた際の音)を追加し、より幅広く遊べるようになっています。
 
