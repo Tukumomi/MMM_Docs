@@ -8,7 +8,6 @@ sidebar_position: 1
 ```
 Unityバージョン/前提アセット
     ・Unity 2022.3.22f1
-    ・lilToon 1.8.5
     ・Modular Avatar 1.11.7
     ・VRChat SDK - Avatars 3.7.6
     ・VRChat SDK - Base 3.7.6
