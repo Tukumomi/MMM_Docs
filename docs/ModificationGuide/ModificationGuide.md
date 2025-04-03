@@ -120,7 +120,7 @@ MofuMofuMotion
 手動で再割り当てしてください。(FX内のBlendtreeも同様)
 :::
 :::info
-MMMはActionMenuの```Two Axis操作```をFloatingMenuを利用して手やアイトラで動かせるようにするギミックです。  
+MMMは2D BlendTreeの操作をFloatingMenuを利用して手やアイトラで動かせるようにするギミックです。  
 そのため、上記設定方法を応用すると耳/尻尾以外にも、**翼や触手等特殊なもの**も動かせるようになります。
 :::
 
