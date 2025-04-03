@@ -96,8 +96,10 @@ MofuMofuMotion
 対応外アバターに対応させる場合は下記の手順を行ってください。  
 
 - Project欄の```MofuMofuMotion/Prefab/01_MMM_Base```Prefabをアバターに導入  
-- 以下のMA Bone Proxyに耳/尻尾のbone(位置はContactの位置を参考に決めてください。)  
-  分からない場合、設定済みのPrefabを参考にしてください。
+- 以下のMA Bone Proxyに耳/尻尾のboneを設定してください。(位置は[**Contact**](/docs/ModificationGuide/#メニュー位置等の調整方法)の位置を参考)  
+  分からない場合、設定済みのPrefabを参考にしてください。  
+  耳の場合はEnd boneの一個下、尻尾は先端から少し下辺りを設定することが多いです。
+  
         ```
         MofuMofuMotion～
         ┗Target
@@ -113,6 +115,8 @@ MofuMofuMotion
 **※Blendtreeは複製しても依存関係の自動修正が行われない為**
 - アバターのRootに上記で作成したAnimatorを割り当て、耳/尻尾/その他の動きのAnimationを更新してください。
 - HierarchyのMMMのRootにある空の```MA Merge Animator```に上記で作成した```MofuMofuMotion_Controller_○○_FX```を割り当ててください。
+- UI/パーティクル色等の初期値を変更したい場合はMMMのPrefabの```MA Parameters```から設定してください。  
+- **以上で対応外アバターへの対応完了です！**  
 :::caution
 - 尻尾等を動かすAnimationを製作する場合は**アバターのRoot**を基準として製作してください。  
 - **Blendtree**への多少の理解が必要です。  
