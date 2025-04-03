@@ -8,7 +8,7 @@ sidebar_position: 1
 ### 導入方法
 本ギミックは**WDオン/オフ両対応**です。  
 
-①VCCに[[**ModularAvatar**](https://modular-avatar.nadena.dev/ja)][[**liltoon**](https://lilxyzw.github.io/lilToon/)]の最新版を導入  
+①VCCに[[**ModularAvatar**](https://modular-avatar.nadena.dev/ja)]の最新版を導入  
 ②```MofuMofuMotion/Prefab/各アバターフォルダ内```にある任意のPrefabをアバター直下に置いてください。  
 ③耳や尻尾で使用しているPBの```Gravity```を0、```Is Animated```をONにしてください。  
 ④完了！
