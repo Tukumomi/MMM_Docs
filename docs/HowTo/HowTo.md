@@ -13,7 +13,7 @@ sidebar_position: 1
 ③耳や尻尾で使用しているPBの```Gravity```を0、```Is Animated```をONにしてください。  
 ④完了！
 :::info
-- 位置確認用のモデルは```EditorOnly_DisplayPositionをDisable```にすれば非表示にできます。
+- 位置確認用のモデルは```EditorOnly_DisplayPositionをActive```にすれば表示できます。(改変用Prefab以外は通常時非表示)
 - **【β版テスター向け情報】**  
     アイトラ未所持の方のアイトラッキングのテスト用に**EyerackingTest Prefab**を用意しています。  
     Prefabをアバター内に入れるとActionMenuにEyerackingTestという項目が増えますので、そこからアイトラ時の動きのテストを行えます。  
