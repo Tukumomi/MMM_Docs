@@ -21,7 +21,9 @@ sidebar_position: 4
 本バージョンはクリーンインストール推奨です。
 :::  
 </details>
-
+### [v1.1.1] '25.4.5   
+    - 【対応アバター追加】  
+        - [ミルク Re](https://komado.booth.pm/items/2953391)
 ### [v1.1.0] '25.4.4   
     - **【Prefab追加】**
         - 改変用Prefab **「__MMM_Custom」** を追加しました。

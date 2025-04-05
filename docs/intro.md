@@ -32,6 +32,9 @@ FloatingMenuでの操作以外にも
     <details>
     <summary>**【あまとうさぎ】**</summary>
 
+    - **ミルク Re**
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/DxyQsN7nr68?si=QNTyLTIGGqYFdC9G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     - **カリン**
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/5628SyVhxL4?si=HZ2vO1mqTbPl9_Yb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -99,6 +102,7 @@ FloatingMenuでの操作以外にも
 - 【STUDIO JINGO】
     - [マヌカ](https://booth.pm/ja/items/5058077) 
 - 【あまとうさぎ】
+    - [ミルク Re](https://komado.booth.pm/items/2953391)
     - [カリン](https://booth.pm/ja/items/3470989)
     - [ライム](https://booth.pm/ja/items/4876459) 
     - [シフォン](https://booth.pm/ja/items/5354471)
