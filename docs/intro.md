@@ -87,6 +87,31 @@ FloatingMenuでの操作以外にも
         <iframe width="560" height="315" src="https://www.youtube.com/embed/v5IRVA1340Q?si=8Zxit3zr3GxP2Rhj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     </details>
+    <details>
+    <summary>**【キュビクローゼット】**</summary>
+
+    - **萌**
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/IM4EX77EQQQ?si=6E8011AJpQLJ7EJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    </details>
+    <details>
+    <summary>**【1058mart】**</summary>
+
+    - **ビスキュイ・ラングドシャ**  
+        **※尻尾のPBのCollidersに設定された「PBC_Hips_Tail」をオフにした際の動きです。**  
+    
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/lt8lu3JkWiU?si=tNVROQ6YvB0bCHJT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    </details>
+    <details>
+    <summary>**【Lethal Cats】**</summary>
+
+    - **カルキア**
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/qDO3gFndIQ0?si=SA1rEICo3cm59P4Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    </details>
 </details>
 
 ----
@@ -117,6 +142,12 @@ FloatingMenuでの操作以外にも
     - [瑞希](https://booth.pm/ja/items/5132797) 
 - 【ポンデロニウム研究所】
     - [しなの](https://booth.pm/ja/items/6106863) 
+- 【キュビクローゼット】  
+    - [萌](https://booth.pm/ja/items/4667400)  
+- 【1058mart】  
+    - [ビスキュイ・ラングドシャ](https://booth.pm/ja/items/5377257)  
+- 【Lethal Cats】  
+    - [カルキア](https://booth.pm/ja/items/2930485)  
 ----
 ## 利用規約について
 :::info
@@ -143,4 +174,3 @@ Twitter(X)等でMofuMofuMotionの画像を投稿する際は下記ハッシュ�
 |VRC SDK|3.7.6|  
 |Modular Avatar|v1.11.6|  
 |Non-Destructive Modular Framework(NDMF)|1.6.8|  
-|lilToon|v1.8.5|

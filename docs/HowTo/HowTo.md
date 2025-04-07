@@ -189,29 +189,39 @@ FM：FloatingMenu
     - **[Change Lightness]**  
         明度を変更します。
 - **[FluffyTouchAudio]**  
-もふもふ音の設定です。
+    もふもふ音の設定です。
     - **[FluffyTouchAudio Active]**  
         耳や尻尾で触った際の音を有効化します。  
         この音声はParticle同様、操作中の部位が何かに触れている際のみ有効になります。
     - **[Enable Self Sound]**  
         自身でも音を聞こえるようにするかの設定です。
-- **[[Local] EyeMenu Adjustment]**  
-    ※Localでのみアイトラモード時の見え方を変更する設定項目です。
-     - **[Eye Movement Range]**  
-        アイトラの可動域の調整を行います。  
-        可動域を調整する際は専用オーバーレイが表示されます。  
-        アイトラのParameterに合わせて、外円が1.0/内側が0.7のラインを表しています。  
-        サブメニューアイコンにPointerを合わせられるように可動域を調整してください。  
-        **※Remoteには設定した倍率のみが同期されます。**
-    - **[SubMenu Switching Change HoldTime]**  
-        アイトラ使用時のモード切替時に何秒選択し続けたら切り替わるかの時間設定です。  
-        0%で1F、100%で1秒で切り替わります。
-    - **[EyeMenu Resize]**  
-        アイトラモード時のFloatingMenuのサイズを変更します。
-    - **[EyeMenu Reposition]**  
-        アイトラモード時のFloatingMenuの表示位置を変更します。
-    - **[EyeMenu Redepth]**  
-        アイトラモード時のFloatingMenuの奥行きを変更します。
+- **[FloatingMenu Control]**  
+    FloatingMenu周りの設定を行います。  
+    - **[Active]**  
+        MMMを有効化します。  
+    - **[EyeTracking Mode]**  
+        アイトラッキングモードに変更します。  
+    - **[Left Hand]**  
+        バングル/リングモード時、左手に変更します。  
+    - **[Ring Mode]**  
+        リングモードに変更します。  
+    - **[[Local] EyeMenu Adjustment]**  
+        ※Localでのみアイトラモード時の見え方を変更する設定項目です。
+        - **[Eye Movement Range]**  
+            アイトラの可動域の調整を行います。  
+            可動域を調整する際は専用オーバーレイが表示されます。  
+            アイトラのParameterに合わせて、外円が1.0/内側が0.7のラインを表しています。  
+            サブメニューアイコンにPointerを合わせられるように可動域を調整してください。  
+            **※Remoteには設定した倍率のみが同期されます。**
+        - **[SubMenu Switching Change HoldTime]**  
+            アイトラ使用時のモード切替時に何秒選択し続けたら切り替わるかの時間設定です。  
+            0%で1F、100%で1秒で切り替わります。
+        - **[EyeMenu Resize]**  
+            アイトラモード時のFloatingMenuのサイズを変更します。
+        - **[EyeMenu Reposition]**  
+            アイトラモード時のFloatingMenuの表示位置を変更します。
+        - **[EyeMenu Redepth]**  
+            アイトラモード時のFloatingMenuの奥行きを変更します。
 :::tip
 **【アイトラ可動域の調整について】**  
 アイトラモードでメニュー展開後、ActionMenuから[Eye Movement Range]を選択し  

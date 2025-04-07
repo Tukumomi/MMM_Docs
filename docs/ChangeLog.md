@@ -21,8 +21,48 @@ sidebar_position: 4
 本バージョンはクリーンインストール推奨です。
 :::  
 </details>
+
+### [v1.2.0] '25.4.7  
+    <details>
+        <summary>**カスタムMMM製作者の方へ(改変を残したままアップデートする方法)**</summary>
+            :::danger
+                **backupを取ってからお試しください。**  
+            :::
+            ① project内のMofuMofuMotion内の以下のフォルダのみを残し、それ以外のフォルダを削除してください。
+            ```
+            MofuMofuMotion
+            　┗Prefab
+            　　┗__MMM_Base
+                ┗__MMM_Custom (カスタマイズしたフォルダ)
+            　┗System
+            　　┗AvatarAnimation
+            　　　┗__MMM_Custom (カスタマイズしたフォルダ)
+            ```
+            ② v1.2.0をインストールしてください。
+
+            ③ 「03_MMM_EyeModeOnly_2bit_Custom」のMA Menu Installerの「prefab開発者向け設定」からインストールされるEXメニューを「03_MMM_EXMenu」に変更してください。
+    </details>
+    - **【対応アバター追加】**
+        - [萌](https://booth.pm/ja/items/4667400)  
+        - [ビスキュイ・ラングドシャ](https://booth.pm/ja/items/5377257)  
+        - [カルキア](https://booth.pm/ja/items/2930485)  
+    - **【仕様変更】**
+        - ActionMenuにFloatingMenuの有効化や場所の設定を行う、 **「FloatingMenu control」** を追加しました。  
+            この修正に伴い、**既存ActionMenuの構成/名称を一部変更しました。**  
+    - **【その他更新】**  
+        - v1.1.1に含まれていた不要なデータを削除しました。   
+            <details>
+            <summary>**v1.1.1をインストールされた方へ**</summary>
+                
+            　　お手数ですが、Assets内に「アバター」という見覚えのないフォルダがありましたら削除して頂けますと助かります。  
+            　　(個人的な改変で使用しているExParameter等が同梱されていました。)  
+            </details>
+    :::caution 
+    ファイル名の変更等破壊的変更を伴う更新です。  
+    **本バージョンは必ずクリーンインストールしてください。**
+    :::  
 ### [v1.1.1] '25.4.5   
-    - 【対応アバター追加】  
+    - **【対応アバター追加】**  
         - [ミルク Re](https://komado.booth.pm/items/2953391)
 ### [v1.1.0] '25.4.4   
     - **【Prefab追加】**
@@ -64,7 +104,7 @@ sidebar_position: 4
 - **【その他更新】**
     - 【Assetフォルダ構成を変更】
         - アバター個別対応関連のフォルダを一部「ショップ名→アバター名」というように纏めました。
-:::caution 
-大幅な破壊的変更を伴う更新です。  
-**本バージョンは必ずクリーンインストールしてください。**
-:::  
+    :::caution 
+    大幅な破壊的変更を伴う更新です。  
+    **本バージョンは必ずクリーンインストールしてください。**
+    :::  
