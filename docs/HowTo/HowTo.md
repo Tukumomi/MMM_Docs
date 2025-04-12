@@ -11,6 +11,7 @@ sidebar_position: 1
 ①VCCに[[**ModularAvatar**](https://modular-avatar.nadena.dev/ja)]の最新版を導入  
 ②```MofuMofuMotion/Prefab/各アバターフォルダ内```にある任意のPrefabをアバター直下に置いてください。  
 ③耳や尻尾で使用しているPBの```Gravity```を0、```Is Animated```をONにしてください。  
+　(尻尾等の動きがぎこちない、動画通りに動かない場合は干渉してるコライダーを切ってください)  
 ④完了！
 :::info
 - 本ギミックは**WDオン/オフ両対応**です。
