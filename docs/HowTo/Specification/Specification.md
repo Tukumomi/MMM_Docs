@@ -3,27 +3,40 @@ sidebar_position: 1
 ---
 
 # 基本仕様
-
 ### 基本仕様 / Specifications
-```
-Unityバージョン/前提アセット
-    ・Unity 2022.3.22f1
-    ・Modular Avatar 1.11.7
-    ・VRChat SDK - Avatars 3.7.6
-    ・VRChat SDK - Base 3.7.6
-Write Defaults: ON/OFF 両対応
-Animatorレイヤー数: 
-    ・通常版(ActionMenuOnly版以外):  3+1(MAのMerge Blend Treeレイヤー)
-    ・ActionMenuOnly版: 2+1(MAのMerge Blend Treeレイヤー)
-マテリアル: 10個（商品フォルダ内に11個付属）
-テクスチャ: 24枚（商品フォルダ内に27枚付属）
-音源データ: 17個
-```
+- **【MofuMofuMotion】**
+    ```
+    Unityバージョン/前提アセット
+        ・Unity 2022.3.22f1
+        ・Modular Avatar 1.11.7
+        ・VRChat SDK - Avatars 3.7.6
+        ・VRChat SDK - Base 3.7.6
+    Write Defaults: ON/OFF 両対応
+    Animatorレイヤー数: 
+        ・通常版(ActionMenuOnly版以外):  3+1(MAのMerge Blend Treeレイヤー)
+        ・ActionMenuOnly版: 2+1(MAのMerge Blend Treeレイヤー)
+    マテリアル: 10個（商品フォルダ内に11個付属）
+    テクスチャ: 24枚（商品フォルダ内に27枚付属）
+    音源データ: 17個
+    ```
+- **【MofuMofuMotion Basis】**
+    ```
+    Unityバージョン/前提アセット
+        ・Unity 2022.3.22f1
+        ・Modular Avatar 1.11.7
+        ・VRChat SDK - Avatars 3.7.6
+        ・VRChat SDK - Base 3.7.6
+    Write Defaults: ON/OFF 両対応
+    Animatorレイヤー数: 
+        ・2+1(MAのMerge Blend Treeレイヤー)
+    テクスチャ: 4枚（商品フォルダ内に5枚付属）
+    ```
 
 ### パフォーマンスランク情報 / Performance Ranking
-**※重要箇所のみ記載**
+**※重要箇所のみ記載**  
+**※アバターによってはContact数などが一部異なります。**  
 
-**【通常版(ActionMenuOnly版以外)】**
+- **【通常版(ActionMenuOnly版以外)】**
     ```
     Material Slots: 25
     Non-Local Contact Component Count: 15
@@ -33,7 +46,7 @@ Animatorレイヤー数:
     Constraint Component Count: 23
     Constraint Depth: 8
     ```
-**【ActionMenuOnly版】**
+- **【ActionMenuOnly版】**
     ```
     Material Slots: 9
     Non-Local Contact Component Count: 6

@@ -6,7 +6,7 @@ sidebar_position: 1
 
 <iframe width="448" height="252" src="https://www.youtube.com/embed/3ZZH5xFS9go?si=7a3KQ7SHMswUhEgl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="448" height="252" src="https://www.youtube.com/embed/IVQiOOFQHJU?si=Jqe97Hjoabx3MkHx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[**MofuMofuMotion**](https://momiji-maples.booth.pm/items/6731467) は宙に浮かぶFloatingMenuを使用し、アバターの耳や尻尾を自由に動かせるようにするギミックです。<br/>
+[**MofuMofuMotion**](https://momiji-maples.booth.pm/items/6731467)は宙に浮かぶFloatingMenuを使用し、アバターの耳や尻尾を自由に動かせるようにするギミックです。<br/>
 専用パーティクルやもふもふ音(耳や尻尾に触れた際の音)を追加し、より幅広く遊べるようになっています。
 
 FloatingMenuでの操作以外にも  
@@ -14,8 +14,11 @@ FloatingMenuでの操作以外にも
 ・アイトラッキング対応(**[VRCFT](https://docs.vrcft.io/)**)による目線での耳/尻尾操作  
 等々、様々な機能を取り揃えています。
 
-また、要求機能に応じて6つのPrefabを用意しており、通常版は消費パラメーター数24bit、アイトラ機能のみの場合は最小0bitで動作/同期します。
+要求機能に応じて5つのPrefabを用意しており、通常版は**消費パラメーター数24bit**、アイトラ機能のみの場合は**最小0bit**で動作/同期します。
 
+また、「MofuMofuMotion」から耳/尻尾を動かす以外の機能をカットした廉価版、 [**「MofuMofuMotion Basis」**](https://momiji-maples.booth.pm/items/6731467) も新しく登場しました。  
+お好みの方をご利用ください。  
+※「MofuMofuMotion Basis」ではパラメータ圧縮を行っていない都合上、**消費パラメーター数は32bitになります。** 
 <details>
     <summary>**各アバターの耳/尻尾の動き動画一覧**</summary>
 
@@ -37,7 +40,7 @@ FloatingMenuでの操作以外にも
         <iframe width="560" height="315" src="https://www.youtube.com/embed/DxyQsN7nr68?si=QNTyLTIGGqYFdC9G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     - **カリン**
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/5628SyVhxL4?si=HZ2vO1mqTbPl9_Yb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/SIxAAOnlxKc?si=gwYZf0I-NuxQ72be" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     - **ライム**
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/IycrxY4DeCw?si=iZrv52HoBgrZGGzx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -112,6 +115,22 @@ FloatingMenuでの操作以外にも
         <iframe width="560" height="315" src="https://www.youtube.com/embed/qDO3gFndIQ0?si=SA1rEICo3cm59P4Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     </details>
+    <details>
+    <summary>**【EMOLab】**</summary>
+
+    - **アズキ**
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/0vSNhtJfsnQ?si=Eima41X7MWm5o0b5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    </details>
+    <details>
+    <summary>**【Stray_Lamb】**</summary>
+
+    - **ニャスカ！**
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/5571RlycDA8?si=6WrrjUVSPIvCMBlm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    </details>
 </details>
 
 ----
@@ -148,6 +167,10 @@ FloatingMenuでの操作以外にも
     - [ビスキュイ・ラングドシャ](https://booth.pm/ja/items/5377257)  
 - 【Lethal Cats】  
     - [カルキア](https://booth.pm/ja/items/2930485)  
+- 【EMOLab】  
+    - [アズキ](https://booth.pm/ja/items/6654988)
+- 【Stray_Lamb】  
+    - [ニャスカ！](https://booth.pm/ja/items/3162874)
 ----
 ## 利用規約について
 :::info
