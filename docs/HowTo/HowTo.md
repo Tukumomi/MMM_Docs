@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ----
 ### 導入方法
-**【「MofuMofuMotion」 「MofuMofuMotion Basis」共通】**    
+**【「MofuMofuMotion」 「MofuMofuMotion Basic」共通】**    
 
 ①VCCに[[**ModularAvatar**](https://modular-avatar.nadena.dev/ja)]の最新版を導入  
 ②```MofuMofuMotion/Prefab/各アバターフォルダ内```にある任意のPrefabをアバター直下に置いてください。  
@@ -76,7 +76,7 @@ sidebar_position: 1
 AM：ActionMenu  
 FM：FloatingMenu  
 
-|**機能**|**【MMM】<br/>通常版**|**【MMM】<br/>SuperLite**|**【MMM】<br/>EyeModeOnly_2bit**|**【MMM】<br/>EyeModeOnly_0bit**|**【MMM】<br/>ActionMenuOnly**|**【MMM_Basis】**|
+|**機能**|**【MMM】<br/>通常版**|**【MMM】<br/>SuperLite**|**【MMM】<br/>EyeModeOnly_2bit**|**【MMM】<br/>EyeModeOnly_0bit**|**【MMM】<br/>ActionMenuOnly**|**【MMM_Basic】**|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|  
 |最大消費パラメーター数|24bit|5bit|2bit|0bit|20bit|32bit|  
 |待機状態選択可能箇所|5箇所<br/>・右目<br/>・両腕<br/>・両人差し指|5箇所<br/>・右目<br/>・両腕<br/>・両人差し指|1箇所<br/>・右目|1箇所<br/>・右目|0箇所||  
@@ -106,7 +106,7 @@ FM：FloatingMenu
 - **アバター読み込みから5秒間は効果音が再生されません。**  
     ※5秒経つ前に何かしらのMMMの操作を行うと再度カウントし直しになります。  
     ※初期同期時に音がうるさくならないようにするための処理です。  
-- **「MofuMofuMotion Basis」の場合、「ActionMenu(EXメニュー)の説明」の下記メニューのみ使用可能です。**  
+- **「MofuMofuMotion Basic」の場合、「ActionMenu(EXメニュー)の説明」の下記メニューのみ使用可能です。**  
     - [Motion Reset]
     - [KemoMimiMotion]/[TailMimiMotion]
 :::

@@ -19,7 +19,7 @@ sidebar_position: 1
     テクスチャ: 24枚（商品フォルダ内に27枚付属）
     音源データ: 17個
     ```
-- **【MofuMofuMotion Basis】**
+- **【MofuMofuMotion Basic】**
     ```
     Unityバージョン/前提アセット
         ・Unity 2022.3.22f1

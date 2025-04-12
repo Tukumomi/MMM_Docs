@@ -16,9 +16,9 @@ FloatingMenuでの操作以外にも
 
 要求機能に応じて5つのPrefabを用意しており、通常版は**消費パラメーター数24bit**、アイトラ機能のみの場合は**最小0bit**で動作/同期します。
 
-また、「MofuMofuMotion」から耳/尻尾を動かす以外の機能をカットした廉価版、 [**「MofuMofuMotion Basis」**](https://momiji-maples.booth.pm/items/6731467) も新しく登場しました。  
+また、「MofuMofuMotion」から耳/尻尾を動かす以外の機能をカットした廉価版、 [**「MofuMofuMotion Basic」**](https://momiji-maples.booth.pm/items/6731467) も新しく登場しました。  
 お好みの方をご利用ください。  
-※「MofuMofuMotion Basis」ではパラメータ圧縮を行っていない都合上、**消費パラメーター数は32bitになります。** 
+※「MofuMofuMotion Basic」ではパラメータ圧縮を行っていない都合上、**消費パラメーター数は32bitになります。** 
 <details>
     <summary>**各アバターの耳/尻尾の動き動画一覧**</summary>
 
