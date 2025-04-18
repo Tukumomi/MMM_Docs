@@ -134,6 +134,31 @@ FloatingMenuでの操作以外にも
         <iframe width="560" height="315" src="https://www.youtube.com/embed/5571RlycDA8?si=6WrrjUVSPIvCMBlm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     </details>
+    <details>
+    <summary>**【Chocolate rice】**</summary>
+
+    - **Sio**
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Hnooo96R-mo?si=5kWoE-GW-41USmoa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    </details>
+    <details>
+    <summary>**【ちょなの本舗】**</summary>
+
+    - **ミミベル**
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/IkmZqUt3Tfo?si=0L95NNboVGxBxet8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    </details>
+    <details>
+    <summary>**【VERMILION.Studio】**</summary>
+
+    - **デルタフレア**
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/thVMYnwNcCQ?si=C8flsIibwXM3eFqO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    </details>
+
 </details>
 
 ----
@@ -175,6 +200,12 @@ FloatingMenuでの操作以外にも
     - [アズキ](https://booth.pm/ja/items/6654988)
 - 【Stray_Lamb】  
     - [ニャスカ！](https://booth.pm/ja/items/3162874)
+- 【Chocolate rice】  
+    - [Sio](https://booth.pm/ja/items/5650156)
+- 【ちょなの本舗】  
+    - [ミミベル](https://booth.pm/ja/items/5846683)
+- 【VERMILION.Studio】  
+    - [デルタフレア](https://booth.pm/ja/items/4906631)  
 ----
 ## 利用規約について
 :::info

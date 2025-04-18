@@ -40,8 +40,15 @@ sidebar_position: 4
     ``` 
 </details>
 
+### [v1.2.3] '25.4.18 
+    - **【対応アバター追加】** 
+        - [Sio](https://booth.pm/ja/items/5650156)
+        - [ミミベル](https://booth.pm/ja/items/5846683)
+        - [デルタフレア](https://booth.pm/ja/items/4906631)  
+            ┗けもみみの代わりに```Hair_sideL1-1, Hair_sideR1-1```のPBの```Is Animated```をオンにしてください。
+
 ### [v1.2.2] '25.4.16  
-    - **【対応アバター追加】**  
+    -  
         ※通常版/Basic版共通
         - [ラスク](https://booth.pm/ja/items/2559783)
 
