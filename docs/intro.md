@@ -158,6 +158,14 @@ FloatingMenuでの操作以外にも
         <iframe width="560" height="315" src="https://www.youtube.com/embed/thVMYnwNcCQ?si=C8flsIibwXM3eFqO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     </details>
+    <details>
+    <summary>**【もふもふ屋】**</summary>
+
+    - **灰島**
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/-OwCnkJKjPw?si=1hfgyOabSobN22-2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    </details>
 
 </details>
 
@@ -206,6 +214,8 @@ FloatingMenuでの操作以外にも
     - [ミミベル](https://booth.pm/ja/items/5846683)
 - 【VERMILION.Studio】  
     - [デルタフレア](https://booth.pm/ja/items/4906631)  
+- 【もふもふ屋】
+    - [灰島](https://booth.pm/ja/items/4701501)
 ----
 ## 利用規約について
 :::info

@@ -5,23 +5,6 @@ sidebar_position: 4
 # 更新履歴
 
 <details>
-<summary>**v1.0.0より前の更新履歴**</summary>
-
-### [v0.5.2] '25.3.19
-- 【ActionMenuにアイコンを追加】
-- 【リングモードを追加】
-    - この更新に伴い人差し指にContactを追加。
-    - この更新に伴い既存のハンドモードを「バングルモード」と呼称。
-- EditorOnlyの位置調整用のオブジェクトのConstraint設定が誤っていたため修正。
-- ChangeColorにSmoothing処理を実装。Remoteでより滑らかに色が変わるようになりました。みんなで遊ぼう！
-- フォルダ名/Animation名を一部変更。
-- MMM Active用Contactに触れた後1sのクールタイムを追加
-    - この更新により連続でオンオフしてしまう現象が発生しづらくなります。
-:::caution 
-本バージョンはクリーンインストール推奨です。
-:::  
-</details>
-<details>
 <summary>**カスタムMMM製作者の方へ(改変を残したままアップデートする方法)**</summary>
 
     :::danger
@@ -40,6 +23,10 @@ sidebar_position: 4
     ``` 
 </details>
 
+### [v1.2.4] '25.4.19 
+    - **【対応アバター追加】** 
+        - [灰島](https://booth.pm/ja/items/4701501)
+
 ### [v1.2.3] '25.4.18 
     - **【対応アバター追加】** 
         - [Sio](https://booth.pm/ja/items/5650156)
@@ -48,8 +35,7 @@ sidebar_position: 4
             ┗けもみみの代わりに```Hair_sideL1-1, Hair_sideR1-1```のPBの```Is Animated```をオンにしてください。
 
 ### [v1.2.2] '25.4.16  
-    -  
-        ※通常版/Basic版共通
+    - **【対応アバター追加】** ※通常版/Basic版共通
         - [ラスク](https://booth.pm/ja/items/2559783)
 
 ### [v1.2.1] '25.4.12
@@ -157,3 +143,21 @@ sidebar_position: 4
     - **【その他更新】**
         - 【Assetフォルダ構成を変更】
             - アバター個別対応関連のフォルダを一部「ショップ名→アバター名」というように纏めました。  
+
+<details>
+<summary>**v1.0.0より前の更新履歴**</summary>
+
+### [v0.5.2] '25.3.19
+- 【ActionMenuにアイコンを追加】
+- 【リングモードを追加】
+    - この更新に伴い人差し指にContactを追加。
+    - この更新に伴い既存のハンドモードを「バングルモード」と呼称。
+- EditorOnlyの位置調整用のオブジェクトのConstraint設定が誤っていたため修正。
+- ChangeColorにSmoothing処理を実装。Remoteでより滑らかに色が変わるようになりました。みんなで遊ぼう！
+- フォルダ名/Animation名を一部変更。
+- MMM Active用Contactに触れた後1sのクールタイムを追加
+    - この更新により連続でオンオフしてしまう現象が発生しづらくなります。
+:::caution 
+本バージョンはクリーンインストール推奨です。
+:::  
+</details>
