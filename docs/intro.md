@@ -35,6 +35,9 @@ FloatingMenuでの操作以外にも
     <details>
     <summary>**【あまとうさぎ】**</summary>
 
+    - **ミント**
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/IR8uKsEk3kY?si=sILnbhaIlb4J7HiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     - **ラスク**
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/fMdVT8hFzZs?si=2LMdXOt70pW6Pg63" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -166,6 +169,14 @@ FloatingMenuでの操作以外にも
         <iframe width="560" height="315" src="https://www.youtube.com/embed/-OwCnkJKjPw?si=1hfgyOabSobN22-2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     </details>
+    <details>
+    <summary>**【こまいぬ通り】**</summary>
+
+    - **ネメシス**
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/5rCCfb6athk?si=63owTEMEJuEAY2p2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    </details>
 
 </details>
 
@@ -182,6 +193,7 @@ FloatingMenuでの操作以外にも
 - 【STUDIO JINGO】
     - [マヌカ](https://booth.pm/ja/items/5058077) 
 - 【あまとうさぎ】
+    - [ミント](https://booth.pm/ja/items/2258111)
     - [ラスク](https://booth.pm/ja/items/2559783)  
     - [ミルク Re](https://komado.booth.pm/items/2953391)
     - [カリン](https://booth.pm/ja/items/3470989)
@@ -202,6 +214,7 @@ FloatingMenuでの操作以外にも
     - [萌](https://booth.pm/ja/items/4667400)  
 - 【1058mart】  
     - [ビスキュイ・ラングドシャ](https://booth.pm/ja/items/5377257)  
+        ┗尻尾のPBのCollidersのSizeを0にしてください。(体のコライダーをオフにする)  
 - 【Lethal Cats】  
     - [カルキア](https://booth.pm/ja/items/2930485)  
 - 【EMOLab】  
@@ -214,8 +227,13 @@ FloatingMenuでの操作以外にも
     - [ミミベル](https://booth.pm/ja/items/5846683)
 - 【VERMILION.Studio】  
     - [デルタフレア](https://booth.pm/ja/items/4906631)  
+        ┗けもみみの代わりに```Hair_sideL1-1, Hair_sideR1-1```のPBの```Is Animated```をオンにしてください。
 - 【もふもふ屋】
     - [灰島](https://booth.pm/ja/items/4701501)
+- 【こまいぬ通り】  
+    - [ネメシス](https://booth.pm/ja/items/5986971)  
+        ┗けもみみの代わりに```Hair_sideL1-1, Hair_sideR1-1```のPBの```Is Animated```をオンにしてください。
+
 ----
 ## 利用規約について
 :::info

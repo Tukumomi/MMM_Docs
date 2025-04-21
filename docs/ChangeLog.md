@@ -23,6 +23,12 @@ sidebar_position: 4
     ``` 
 </details>
 
+### [v1.2.5] '25.4.21 
+    - **【対応アバター追加】** 
+        - [ミント](https://booth.pm/ja/items/2258111)
+        - [ネメシス](https://booth.pm/ja/items/5986971)  
+            ┗尻尾PBの```TailCollider_2```、```TailCollider_2(1)```を消してください。
+
 ### [v1.2.4] '25.4.19 
     - **【対応アバター追加】** 
         - [灰島](https://booth.pm/ja/items/4701501)
