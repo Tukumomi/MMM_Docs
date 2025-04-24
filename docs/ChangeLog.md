@@ -23,6 +23,13 @@ sidebar_position: 4
     ``` 
 </details>
 
+### [v1.2.6] '25.4.24 
+    - **【対応アバター追加】** 
+        - [Lasyusha〈ラシューシャ〉](https://booth.pm/ja/items/4825073)
+        - [フレーナ](https://booth.pm/ja/items/6144723)
+        - [ソフィナ-Sophina-](https://booth.pm/ja/items/4044305)
+        - [Chalo](https://booth.pm/ja/items/5201759)
+
 ### [v1.2.5] '25.4.21 
     - **【対応アバター追加】** 
         - [ミント](https://booth.pm/ja/items/2258111)

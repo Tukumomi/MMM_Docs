@@ -38,21 +38,27 @@ FloatingMenuでの操作以外にも
     - **ミント**
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/IR8uKsEk3kY?si=sILnbhaIlb4J7HiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
     - **ラスク**
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/fMdVT8hFzZs?si=2LMdXOt70pW6Pg63" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
     - **ミルク Re**
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/DxyQsN7nr68?si=QNTyLTIGGqYFdC9G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
     - **カリン**
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/SIxAAOnlxKc?si=gwYZf0I-NuxQ72be" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
     - **ライム**
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/IycrxY4DeCw?si=iZrv52HoBgrZGGzx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
     - **シフォン**
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/dwcrXKFcYvQ?si=S93ISVGJ0MsALuvq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
     - **ショコラ**
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/SIIg7cq4-b8?si=FeYQxscqy72PNtnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -168,6 +174,10 @@ FloatingMenuでの操作以外にも
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/-OwCnkJKjPw?si=1hfgyOabSobN22-2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+    - **Chalo**
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/K9z-DbQ7qLU?si=eugT6Z_6G4ciScY7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
     </details>
     <details>
     <summary>**【こまいぬ通り】**</summary>
@@ -176,6 +186,30 @@ FloatingMenuでの操作以外にも
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/5rCCfb6athk?si=63owTEMEJuEAY2p2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+    </details>
+    <details>
+    <summary>**【Keenoo】**</summary>
+
+    - **Lasyusha〈ラシューシャ〉**
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/FXnXYf8c8m4?si=uyX2wkENkZ-GE55S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    </details>
+    <details>
+    <summary>**【まつり場】**</summary>
+
+    - **フレーナ**
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/69ghlqNcbWI?si=exEzpXCDKlKorDjV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    
+    </details>
+    <details>
+    <summary>**【Luku me】**</summary>
+
+    - **ソフィナ-Sophina-**
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/URShMY2xg_Q?si=liSeG1HhKichO-gs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    
     </details>
 
 </details>
@@ -190,6 +224,8 @@ FloatingMenuでの操作以外にも
 対応アバターは順次追加予定です。  
 追加要望がある場合は[Twitter(X)](https://x.com/Tukumomi_VR)や[Booth](https://momiji-maples.booth.pm/)へご連絡ください。(Twitterの方が気づきやすいと思います。)
 :::
+**現在28アバター対応**
+
 - 【STUDIO JINGO】
     - [マヌカ](https://booth.pm/ja/items/5058077) 
 - 【あまとうさぎ】
@@ -230,9 +266,16 @@ FloatingMenuでの操作以外にも
         ┗けもみみの代わりに```Hair_sideL1-1, Hair_sideR1-1```のPBの```Is Animated```をオンにしてください。
 - 【もふもふ屋】
     - [灰島](https://booth.pm/ja/items/4701501)
+    - [Chalo](https://booth.pm/ja/items/5201759)
 - 【こまいぬ通り】  
     - [ネメシス](https://booth.pm/ja/items/5986971)  
         ┗けもみみの代わりに```Hair_sideL1-1, Hair_sideR1-1```のPBの```Is Animated```をオンにしてください。
+- 【Keenoo】
+    - [Lasyusha〈ラシューシャ〉](https://booth.pm/ja/items/4825073)
+- 【Luku me】
+    - [ソフィナ-Sophina-](https://booth.pm/ja/items/4044305)
+- 【まつり場】
+    - [フレーナ](https://booth.pm/ja/items/6144723)
 
 ----
 ## 利用規約について
