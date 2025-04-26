@@ -23,6 +23,34 @@ sidebar_position: 4
     ``` 
 </details>
 
+### [v1.2.7] '25.4.26 
+    - **【対応アバター追加】** 
+        - [しらつめ](https://booth.pm/ja/items/6831821)
+        <details>
+        <summary>**【WDオフ環境でけも耳シェイプキーを変更している場合の注意点(しらつめ)】**</summary>
+
+            けも耳のシェイプキー、```ear_marume```, ```ear_small```, ```ear_big```以外を書き換えるため、**WDオフ環境で初期値を変更している場合**はAnimationの修正が必要になります。  
+            修正する際は下記Animationに登録されているシェイプキーの数値に変更したシェイプキーの値を設定してください。
+            ```
+            MofuMofuMotion
+            　┗System
+            　　┗AvatarAnimation
+            　　　┗_HARUNOPUPU
+            　　　　┗Shiratsume
+            　　　　　┣ResetPosition_CtrlReset_1_Shiratsume ◀
+            　　　　　┗KemoMimiMotion_Shiratsume
+            　　　　　　┗KemoMimiMotion_Base_Shiratsume ◀
+            ```
+        </details>
+    - **【その他修正】**
+        - 極稀に発生するVRC上でのみ一部パラメーターが書き換わってしまうバグの対策として、「MMM/Local/Var_Num」の自動リネーム  
+            (MA Parameters)をオンにしました。  
+            - この問題は一時的な回避手段の為、今後変更される可能性が有ります。
+        - MofuMofuMotion BasicのAnimatorにレイヤー名を追加  
+        - triturbo製フェイシャルトラッキングでアイトラモードが使用できなかった問題を修正。  
+            VRCFTパラメーターのPrefixに起因する問題の為、個別対応という形になります。    
+            **今後も動かないFTアドオンがありましたらご連絡ください。**
+
 ### [v1.2.6] '25.4.24 
     - **【対応アバター追加】** 
         - [Lasyusha〈ラシューシャ〉](https://booth.pm/ja/items/4825073)

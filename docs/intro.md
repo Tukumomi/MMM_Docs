@@ -18,7 +18,12 @@ FloatingMenuでの操作以外にも
 
 また、「MofuMofuMotion」から耳/尻尾を動かす以外の機能をカットした廉価版、 [**「MofuMofuMotion Basic」**](https://momiji-maples.booth.pm/items/6731467) も新しく登場しました。  
 お好みの方をご利用ください。  
-※「MofuMofuMotion Basic」ではパラメータ圧縮を行っていない都合上、**消費パラメーター数は32bitになります。** 
+※「MofuMofuMotion Basic」ではパラメータ圧縮を行っていない都合上、**消費パラメーター数は32bitになります。**   
+**※VRCFTのPrefix自動検知の仕組み上、FTアドオンで使用しているVRCFTのパラメーター名によっては対応していない可能性があります。**  
+　**その際はお気軽にご連絡ください。**  
+- **【動作確認済みFTアドオン】**
+    - [Fermata Shop製FTアドオン(マヌカで確認)](https://fermat.booth.pm/)
+    - [Triturbo製FTアドオン(キプフェルで確認)](https://triturbo.booth.pm/)
 <details>
     <summary>**各アバターの耳/尻尾の動き動画一覧**</summary>
 
@@ -211,6 +216,14 @@ FloatingMenuでの操作以外にも
         <iframe width="560" height="315" src="https://www.youtube.com/embed/URShMY2xg_Q?si=liSeG1HhKichO-gs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     
     </details>
+    <details>
+    <summary>**【HARUNOPUPU】**</summary>
+
+    - **しらつめ**
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/q7-RiQT8IOI?si=3-47jM8om1crD96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    
+    </details>
 
 </details>
 
@@ -276,7 +289,24 @@ FloatingMenuでの操作以外にも
     - [ソフィナ-Sophina-](https://booth.pm/ja/items/4044305)
 - 【まつり場】
     - [フレーナ](https://booth.pm/ja/items/6144723)
+- 【HARUNOPUPU】
+    - [しらつめ](https://booth.pm/ja/items/6831821)  
+    <details>
+    <summary>**【WDオフ環境でけも耳シェイプキーを変更している場合の注意点(しらつめ)】**</summary>
 
+        けも耳のシェイプキー、```ear_marume```, ```ear_small```, ```ear_big```以外を書き換えるため、**WDオフ環境で初期値を変更している場合**はAnimationの修正が必要になります。  
+        修正する際は下記Animationに登録されているシェイプキーの数値に変更したシェイプキーの値を設定してください。
+        ```
+        MofuMofuMotion
+        　┗System
+        　　┗AvatarAnimation
+        　　　┗_HARUNOPUPU
+        　　　　┗Shiratsume
+        　　　　　┣ResetPosition_CtrlReset_1_Shiratsume ◀
+        　　　　　┗KemoMimiMotion_Shiratsume
+        　　　　　　┗KemoMimiMotion_Base_Shiratsume ◀
+        ```
+    </details>
 ----
 ## 利用規約について
 :::info
