@@ -237,7 +237,7 @@ FloatingMenuでの操作以外にも
 対応アバターは順次追加予定です。  
 追加要望がある場合は[Twitter(X)](https://x.com/Tukumomi_VR)や[Booth](https://momiji-maples.booth.pm/)へご連絡ください。(Twitterの方が気づきやすいと思います。)
 :::
-**現在28アバター対応**
+**現在29アバター対応**
 
 - 【STUDIO JINGO】
     - [マヌカ](https://booth.pm/ja/items/5058077) 
