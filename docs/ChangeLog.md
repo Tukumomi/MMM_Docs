@@ -23,6 +23,20 @@ sidebar_position: 4
     ``` 
 </details>
 
+### [v1.2.8] '25.5.16 
+    - **【対応アバター追加】** 
+        - [真央-mao-](https://booth.pm/ja/items/6846646)  
+            ┗尻尾のPBのCollidersのHipsとChestを削除してください。
+        - [リナ-Lina-](https://booth.pm/ja/items/4973055)
+        - [ミュリシア-Mulicia-](https://booth.pm/ja/items/3302156)
+    - **【その他修正】**
+        - Triturbo製のFTアドオンにてけもみみに追加されたシェイプキーの影響で動きがおかしくなっていた問題に一旦の対応を行いました。  
+            引き続き問題がある場合はご報告ください。
+        - キプフェル対応にて帽子を被っている状態のけもみみも動くようになりました。(パーティクル等の起点は変わらない為ご注意ください。)
+        - Prefabフォルダ内の「_EMOLab」にアンダーバーがついてない問題を修正しました。
+        - 「MofuMofuMotion Basic」で使用する耳/尻尾のAnimation/Blendtree/Textureを「MofuMofuMotion」のものを使用するように変更しました。  
+            **※この変更によるconflictは発生しませんが、プロジェクト軽量化の為にBasicを使用されている方はクリーンインストールを推奨します。**
+
 ### [v1.2.7] '25.4.26 
     - **【対応アバター追加】** 
         - [しらつめ](https://booth.pm/ja/items/6831821)

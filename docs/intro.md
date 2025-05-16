@@ -75,7 +75,7 @@ FloatingMenuでの操作以外にも
     - **まめひなた**
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/fVdFt9W5smI?si=BfJOhHVkp4e7DN3v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    - **キプフェル (※耳動作は帽子無し状態のみ)**
+    - **キプフェル**
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/f6xzcFssz9w?si=SURtmJph-JnPhg2W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -97,6 +97,9 @@ FloatingMenuでの操作以外にも
     - **瑞希**
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/7MwiTfjMBt4?si=5q48-AErcFdmqVHX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    - **真央**
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/jzDUAczUmig?si=vIKR6qN2uYxrlw-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     </details>
     <details>
@@ -185,6 +188,14 @@ FloatingMenuでの操作以外にも
 
     </details>
     <details>
+    <summary>**【けだまびより】**</summary>
+
+    - **リナ-Lina-**
+    
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/AFt9329d7gg?si=qiXtpgY4fjXm5CvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    </details>
+    <details>
     <summary>**【こまいぬ通り】**</summary>
 
     - **ネメシス**
@@ -224,6 +235,14 @@ FloatingMenuでの操作以外にも
         <iframe width="560" height="315" src="https://www.youtube.com/embed/q7-RiQT8IOI?si=3-47jM8om1crD96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     
     </details>
+    <details>
+    <summary>**【もにゅめんつ.MONUMENTS】**</summary>
+
+    - **ミュリシア-Mulicia-**
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/rkXbj16g_S8?si=ZUVssKNw7TW2LrRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    </details>
 
 </details>
 
@@ -237,35 +256,37 @@ FloatingMenuでの操作以外にも
 対応アバターは順次追加予定です。  
 追加要望がある場合は[Twitter(X)](https://x.com/Tukumomi_VR)や[Booth](https://momiji-maples.booth.pm/)へご連絡ください。(Twitterの方が気づきやすいと思います。)
 :::
-**現在29アバター対応**
 
+**現在32アバター対応**
 - 【STUDIO JINGO】
-    - [マヌカ](https://booth.pm/ja/items/5058077) 
+    - [マヌカ](https://booth.pm/ja/items/5058077)
 - 【あまとうさぎ】
     - [ミント](https://booth.pm/ja/items/2258111)
-    - [ラスク](https://booth.pm/ja/items/2559783)  
+    - [ラスク](https://booth.pm/ja/items/2559783)
     - [ミルク Re](https://komado.booth.pm/items/2953391)
     - [カリン](https://booth.pm/ja/items/3470989)
-    - [ライム](https://booth.pm/ja/items/4876459) 
+    - [ライム](https://booth.pm/ja/items/4876459)
     - [シフォン](https://booth.pm/ja/items/5354471)
-    - [ショコラ](https://booth.pm/ja/items/6405390) 
+    - [ショコラ](https://booth.pm/ja/items/6405390)
 - 【もち山金魚】
     - [まめひなた](https://booth.pm/ja/items/4340548)
-    - [キプフェル](https://booth.pm/ja/items/5813187) 
+    - [キプフェル](https://booth.pm/ja/items/5813187)
 - 【PLUSONE】
     - [真冬](https://booth.pm/ja/items/5007531)
     - [Ash](https://booth.pm/ja/items/3234473)
 - 【IKUSIA】
-    - [瑞希](https://booth.pm/ja/items/5132797) 
+    - [瑞希](https://booth.pm/ja/items/5132797)
+    - [真央](https://booth.pm/ja/items/6846646)  
+        ┗尻尾のPBのCollidersのHipsとChestを削除してください。
 - 【ポンデロニウム研究所】
-    - [しなの](https://booth.pm/ja/items/6106863) 
+    - [しなの](https://booth.pm/ja/items/6106863)
 - 【キュビクローゼット】  
-    - [萌](https://booth.pm/ja/items/4667400)  
+    - [萌](https://booth.pm/ja/items/4667400)
 - 【1058mart】  
     - [ビスキュイ・ラングドシャ](https://booth.pm/ja/items/5377257)  
         ┗尻尾のPBのCollidersのSizeを0にしてください。(体のコライダーをオフにする)  
 - 【Lethal Cats】  
-    - [カルキア](https://booth.pm/ja/items/2930485)  
+    - [カルキア](https://booth.pm/ja/items/2930485)
 - 【EMOLab】  
     - [アズキ](https://booth.pm/ja/items/6654988)
 - 【Stray_Lamb】  
@@ -280,6 +301,8 @@ FloatingMenuでの操作以外にも
 - 【もふもふ屋】
     - [灰島](https://booth.pm/ja/items/4701501)
     - [Chalo](https://booth.pm/ja/items/5201759)
+- 【けだまびより】
+    - [リナ-Lina-](https://booth.pm/ja/items/4973055)
 - 【こまいぬ通り】  
     - [ネメシス](https://booth.pm/ja/items/5986971)  
         ┗けもみみの代わりに```Hair_sideL1-1, Hair_sideR1-1```のPBの```Is Animated```をオンにしてください。
@@ -290,23 +313,25 @@ FloatingMenuでの操作以外にも
 - 【まつり場】
     - [フレーナ](https://booth.pm/ja/items/6144723)
 - 【HARUNOPUPU】
-    - [しらつめ](https://booth.pm/ja/items/6831821)  
-    <details>
-    <summary>**【WDオフ環境でけも耳シェイプキーを変更している場合の注意点(しらつめ)】**</summary>
+    - [しらつめ](https://booth.pm/ja/items/6831821)
+<details>
+<summary>**【WDオフ環境でけも耳シェイプキーを変更している場合の注意点(しらつめ)】**</summary>
 
-        けも耳のシェイプキー、```ear_marume```, ```ear_small```, ```ear_big```以外を書き換えるため、**WDオフ環境で初期値を変更している場合**はAnimationの修正が必要になります。  
-        修正する際は下記Animationに登録されているシェイプキーの数値に変更したシェイプキーの値を設定してください。
-        ```
-        MofuMofuMotion
-        　┗System
-        　　┗AvatarAnimation
-        　　　┗_HARUNOPUPU
-        　　　　┗Shiratsume
-        　　　　　┣ResetPosition_CtrlReset_1_Shiratsume ◀
-        　　　　　┗KemoMimiMotion_Shiratsume
-        　　　　　　┗KemoMimiMotion_Base_Shiratsume ◀
-        ```
-    </details>
+    けも耳のシェイプキー、```ear_marume```, ```ear_small```, ```ear_big```以外を書き換えるため、**WDオフ環境で初期値を変更している場合**はAnimationの修正が必要になります。  
+    修正する際は下記Animationに登録されているシェイプキーの数値に変更したシェイプキーの値を設定してください。
+    ```
+    MofuMofuMotion
+    　┗System
+    　　┗AvatarAnimation
+    　　　┗_HARUNOPUPU
+    　　　　┗Shiratsume
+    　　　　　┣ResetPosition_CtrlReset_1_Shiratsume ◀
+    　　　　　┗KemoMimiMotion_Shiratsume
+    　　　　　　┗KemoMimiMotion_Base_Shiratsume ◀
+    ```
+</details>
+- 【もにゅめんつ.MONUMENTS】
+    - [ミュリシア](https://booth.pm/ja/items/3302156)
 ----
 ## 利用規約について
 :::info
