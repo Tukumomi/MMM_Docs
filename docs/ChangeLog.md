@@ -23,6 +23,17 @@ sidebar_position: 4
     ``` 
 </details>
 
+### [v1.2.9] '26.1.16 
+    - **【対応アバター追加】** 
+        - [シアン-Cian-](https://booth.pm/ja/items/5482062)  
+        - [エク-Eku-](https://booth.pm/ja/items/7328764)
+        - [プラム-Plum-](https://booth.pm/ja/items/7770415)
+        - [ファルリア-Falria-](https://booth.pm/ja/items/3808012)
+    - **【その他修正】**
+        - マヌカ、キプフェルの尻尾のMotionを一部変更  
+            ┗これに伴い当サイトの該当箇所を更新  
+            ┗旧Motionは各AvatarAnimationのTailMotion_○○○/oldフォルダ内にあります。
+
 ### [v1.2.8] '25.5.16 
     - **【対応アバター追加】** 
         - [真央-mao-](https://booth.pm/ja/items/6846646)  

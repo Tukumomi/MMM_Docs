@@ -34,7 +34,7 @@ FloatingMenuでの操作以外にも
 
     - **マヌカ**  
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/h5cEVMnx1mk?si=KY2s7TredMQhEJkl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/h1eEd-UeGCE?si=9nw-0rPKFD9Q4YZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     </details>
     <details>
@@ -68,6 +68,10 @@ FloatingMenuでの操作以外にも
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/SIIg7cq4-b8?si=FeYQxscqy72PNtnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+    - **プラム**
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/EQczYVOrxC4?si=a5yK4P8fSEnbLBNW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
     </details>
     <details>
     <summary>**【もち山金魚】**</summary>
@@ -77,7 +81,7 @@ FloatingMenuでの操作以外にも
         <iframe width="560" height="315" src="https://www.youtube.com/embed/fVdFt9W5smI?si=BfJOhHVkp4e7DN3v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     - **キプフェル**
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/f6xzcFssz9w?si=SURtmJph-JnPhg2W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/WNX_ciUaYVs?si=BmizDO4GWvN9SrQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     </details>
     <details>
@@ -243,6 +247,26 @@ FloatingMenuでの操作以外にも
         <iframe width="560" height="315" src="https://www.youtube.com/embed/rkXbj16g_S8?si=ZUVssKNw7TW2LrRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     </details>
+    <details>
+    <summary>**【sep-neko-ya】**</summary>
+
+    - **シアン-Cian-**
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/JThOoV9RHD0?si=4tMwVuV3TZCfzysF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    - **エク-Eku-**
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/IWCUfvi2lRE?si=kg4kPqev8_p8w0OM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    </details>
+    <details>
+    <summary>**【寺井カントリー|Terai Country】**</summary>
+
+    - **ファルリア-Falria-**
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/tFp9bB6Gxag?si=MfZOqv1ExKoSoBwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        
+    </details>
 
 </details>
 
@@ -257,7 +281,7 @@ FloatingMenuでの操作以外にも
 追加要望がある場合は[Twitter(X)](https://x.com/Tukumomi_VR)や[Booth](https://momiji-maples.booth.pm/)へご連絡ください。(Twitterの方が気づきやすいと思います。)
 :::
 
-**現在32アバター対応**
+**現在36アバター対応**
 - 【STUDIO JINGO】
     - [マヌカ](https://booth.pm/ja/items/5058077)
 - 【あまとうさぎ】
@@ -268,6 +292,7 @@ FloatingMenuでの操作以外にも
     - [ライム](https://booth.pm/ja/items/4876459)
     - [シフォン](https://booth.pm/ja/items/5354471)
     - [ショコラ](https://booth.pm/ja/items/6405390)
+    - [プラム](https://booth.pm/ja/items/7770415)
 - 【もち山金魚】
     - [まめひなた](https://booth.pm/ja/items/4340548)
     - [キプフェル](https://booth.pm/ja/items/5813187)
@@ -308,10 +333,10 @@ FloatingMenuでの操作以外にも
         ┗けもみみの代わりに```Hair_sideL1-1, Hair_sideR1-1```のPBの```Is Animated```をオンにしてください。
 - 【Keenoo】
     - [Lasyusha〈ラシューシャ〉](https://booth.pm/ja/items/4825073)
-- 【Luku me】
-    - [ソフィナ-Sophina-](https://booth.pm/ja/items/4044305)
 - 【まつり場】
     - [フレーナ](https://booth.pm/ja/items/6144723)
+- 【Luku me】
+    - [ソフィナ-Sophina-](https://booth.pm/ja/items/4044305)
 - 【HARUNOPUPU】
     - [しらつめ](https://booth.pm/ja/items/6831821)
 <details>
@@ -332,6 +357,11 @@ FloatingMenuでの操作以外にも
 </details>
 - 【もにゅめんつ.MONUMENTS】
     - [ミュリシア](https://booth.pm/ja/items/3302156)
+- 【sep-neko-ya】
+    - [シアン](https://booth.pm/ja/items/5482062)
+    - [エク](https://booth.pm/ja/items/7328764)
+- 【寺井カントリー|Terai Country】
+    - [ファルリア](https://booth.pm/ja/items/3808012)
 ----
 ## 利用規約について
 :::info
