@@ -268,6 +268,24 @@ FloatingMenuでの操作以外にも
         
     </details>
 
+    <details>
+    <summary>**【FLASTORE】**</summary>  
+
+    - **こごみ-Kogomi-**  
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/e-qECCU3DV4?si=wV0Mr8H7j05JKjaC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        
+    </details>
+
+    <details>
+    <summary>**【ALPHA0】**</summary>  
+
+    - **りる-RIRU-**  
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/tKuDItZDi9Y?si=xybnzVdXXJo3o9wq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        
+    </details>
+
 </details>
 
 ----
@@ -375,6 +393,10 @@ FloatingMenuでの操作以外にも
     - [エク](https://booth.pm/ja/items/7328764)
 - 【寺井カントリー|Terai Country】
     - [ファルリア](https://booth.pm/ja/items/3808012)
+- 【FLASTORE】  
+    - [こごみ](https://booth.pm/ja/items/8779825)  
+- 【ALPHA0】  
+    - [りる](https://booth.pm/ja/items/8062861)  
 ----
 ## 利用規約について
 :::info

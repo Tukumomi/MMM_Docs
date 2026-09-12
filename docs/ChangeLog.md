@@ -23,6 +23,13 @@ sidebar_position: 4
     ``` 
 </details>
 
+### [v1.2.11] '26.9.12
+    - **【対応アバター追加】**  
+        - [こごみ-kogomi-](https://booth.pm/ja/items/8779825)  
+        - [りる-RIRU-](https://booth.pm/ja/items/8062861)  
+    - **【その他修正】**  
+        - `v1.2.9`追加対応アバターのAnimationにてTriturbo製FTアドオンへの対応が一部抜けていたため修正  
+
 ### [v1.2.10] '26.3.11 
     - **【不具合修正】** 
         - アイトラ可動域調整機能時の専用UIのEmissionが色替えに対応していなかった問題を修正  
