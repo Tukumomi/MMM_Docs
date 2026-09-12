@@ -312,7 +312,7 @@ FloatingMenuでの操作以外にも
         ┗ギフト受け取り時点でMofuMofuMotionのギフトを一つお送りいたします。
 </details>
 
-**現在36アバター対応**
+**現在38アバター対応**
 - 【STUDIO JINGO】
     - [マヌカ](https://booth.pm/ja/items/5058077)
 - 【あまとうさぎ】
