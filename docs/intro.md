@@ -18,12 +18,17 @@ FloatingMenuでの操作以外にも
 
 また、「MofuMofuMotion」から耳/尻尾を動かす以外の機能をカットした廉価版、 [**「MofuMofuMotion Basic」**](https://momiji-maples.booth.pm/items/6731467) も新しく登場しました。  
 お好みの方をご利用ください。  
+
 ※「MofuMofuMotion Basic」ではパラメータ圧縮を行っていない都合上、**消費パラメーター数は32bitになります。**   
 **※VRCFTのPrefix自動検知の仕組み上、FTアドオンで使用しているVRCFTのパラメーター名によっては対応していない可能性があります。**  
 　**その際はお気軽にご連絡ください。**  
 - **【動作確認済みFTアドオン】**
     - [Fermata Shop製FTアドオン(マヌカで確認)](https://fermat.booth.pm/)
     - [Triturbo製FTアドオン(キプフェルで確認)](https://triturbo.booth.pm/)
+:::caution
+VRCSDK 3.10.6以降から実装されているNative Face Trackingには現在対応しておりません。
+MA等主要ツールの対応方針決定後、順次対応していきます。
+:::
 <details>
     <summary>**各アバターの耳/尻尾の動き動画一覧**</summary>
 
@@ -286,6 +291,24 @@ FloatingMenuでの操作以外にも
         
     </details>
 
+    <details>
+    <summary>**【仮想VoidCat】**</summary>  
+
+    - **ミレド-Miredo-**  
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/XBls_1Iki88?si=j3btdBqQvDTt1gkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        
+    </details>
+
+    <details>
+    <summary>**【plium】**</summary>  
+
+    - **ちゆ-Chiyu-**  
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/7HSiB_GTo40?si=TCvcvIG4WFssatut" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        
+    </details>
+
 </details>
 
 ----
@@ -312,7 +335,7 @@ FloatingMenuでの操作以外にも
         ┗ギフト受け取り時点でMofuMofuMotionのギフトを一つお送りいたします。
 </details>
 
-**現在38アバター対応**
+**現在40アバター対応**
 - 【STUDIO JINGO】
     - [マヌカ](https://booth.pm/ja/items/5058077)
 - 【あまとうさぎ】
@@ -397,6 +420,10 @@ FloatingMenuでの操作以外にも
     - [こごみ](https://booth.pm/ja/items/8779825)  
 - 【ALPHA0】  
     - [りる](https://booth.pm/ja/items/8062861)  
+- 【仮想VoidCat】  
+    - [ミレド-Miredo-](https://booth.pm/ja/items/8906276)
+- 【plium】  
+    - [ちゆ - Chiyu](https://booth.pm/ja/items/8942824)
 ----
 ## 利用規約について
 :::info

@@ -23,6 +23,12 @@ sidebar_position: 4
     ``` 
 </details>
 
+### [v1.2.12] '26.11.06
+    ⚠️Native Face Trackingには現在対応しておりません。(今後対応予定です。)  
+    - **【対応アバター追加】**  
+        - [ミレド-Miredo-](https://booth.pm/ja/items/8906276)  
+        - [ちゆ - Chiyu](https://booth.pm/ja/items/8942824)  
+
 ### [v1.2.11] '26.9.12
     - **【対応アバター追加】**  
         - [こごみ-kogomi-](https://booth.pm/ja/items/8779825)  
